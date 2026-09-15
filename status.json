@@ -1,1 +1,1 @@
-{"state":"failed","package":"K2CommandPodCont","position":1310,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-y543tl5c.zip'","updated_at":"2026-09-15T22:39:41.405039+00:00"}
+{"state":"processing","package":"K6M8InlineCockpit","position":1311,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:42.207244+00:00"}
