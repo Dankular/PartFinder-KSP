@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalSimpit","position":1509,"catalog_packages":3738,"updated_at":"2026-09-15T22:45:33.247800+00:00"}
+{"state":"failed","package":"KerbalSimpit","position":1509,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-_zuvw6sz.zip'","updated_at":"2026-09-15T22:45:34.208441+00:00"}
