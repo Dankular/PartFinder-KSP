@@ -1,1 +1,1 @@
-{"state":"processing","package":"KcalbelohSystem-Textures-8k","position":1357,"catalog_packages":3738,"updated_at":"2026-09-15T22:41:04.085905+00:00"}
+{"state":"failed","package":"KcalbelohSystem-Textures-8k","position":1357,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-m6komo2i.zip'","updated_at":"2026-09-15T22:41:04.978936+00:00"}
