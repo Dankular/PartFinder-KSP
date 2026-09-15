@@ -1,1 +1,1 @@
-{"state":"processing","package":"Mk1PrototypeCockpit","position":2033,"catalog_packages":3738,"updated_at":"2026-09-15T23:07:08.363012+00:00"}
+{"state":"failed","package":"Mk1PrototypeCockpit","position":2033,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-c6n38ovx.zip'","updated_at":"2026-09-15T23:07:09.434311+00:00"}
