@@ -1,1 +1,1 @@
-{"state":"processing","package":"KrakensKreations","position":1698,"catalog_packages":3738,"updated_at":"2026-09-15T22:52:05.146218+00:00"}
+{"state":"failed","package":"KrakensKreations","position":1698,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:52:08.005266+00:00"}
