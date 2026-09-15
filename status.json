@@ -1,1 +1,1 @@
-{"state":"processing","package":"DynamicTextureLoader","position":797,"catalog_packages":3738,"updated_at":"2026-09-15T22:15:57.534604+00:00"}
+{"state":"failed","package":"DynamicTextureLoader","position":797,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-qy7q9ju2.zip'","updated_at":"2026-09-15T22:15:58.387498+00:00"}
