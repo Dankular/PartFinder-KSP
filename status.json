@@ -1,1 +1,1 @@
-{"state":"processing","package":"MagiCore","position":1923,"catalog_packages":3738,"updated_at":"2026-09-15T23:01:53.839192+00:00"}
+{"state":"failed","package":"MagiCore","position":1923,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:01:57.273871+00:00"}
