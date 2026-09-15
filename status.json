@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalKonstructs","position":1471,"catalog_packages":3738,"updated_at":"2026-09-15T22:44:24.887903+00:00"}
+{"state":"failed","package":"KerbalKonstructs","position":1471,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-lmxbb1e0.zip'","updated_at":"2026-09-15T22:44:25.756687+00:00"}
