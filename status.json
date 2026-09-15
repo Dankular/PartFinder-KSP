@@ -1,1 +1,1 @@
-{"state":"processing","package":"GrannusExpansionPack-Rescale","position":1073,"catalog_packages":3738,"updated_at":"2026-09-15T22:30:34.617395+00:00"}
+{"state":"failed","package":"GrannusExpansionPack-Rescale","position":1073,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-mrr0p3sx.zip'","updated_at":"2026-09-15T22:30:35.484324+00:00"}
