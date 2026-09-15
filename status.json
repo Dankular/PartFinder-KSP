@@ -1,1 +1,1 @@
-{"state":"processing","package":"LongMarch5CZ5","position":1895,"catalog_packages":3738,"updated_at":"2026-09-15T23:00:45.725029+00:00"}
+{"state":"failed","package":"LongMarch5CZ5","position":1895,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:00:48.060746+00:00"}
