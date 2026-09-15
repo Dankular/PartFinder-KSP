@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalWeatherProject","position":1522,"catalog_packages":3738,"updated_at":"2026-09-15T22:45:56.063880+00:00"}
+{"state":"failed","package":"KerbalWeatherProject","position":1522,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-td3le_1u.zip'","updated_at":"2026-09-15T22:45:57.064706+00:00"}
