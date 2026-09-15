@@ -1,1 +1,1 @@
-{"state":"processing","package":"Kerbalism-Profile-Default","position":1443,"catalog_packages":3738,"updated_at":"2026-09-15T22:43:33.930841+00:00"}
+{"state":"failed","package":"Kerbalism-Profile-Default","position":1443,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-m60l0obe.zip'","updated_at":"2026-09-15T22:43:34.817097+00:00"}
