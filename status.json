@@ -1,1 +1,1 @@
-{"state":"processing","package":"LCAproject","position":1859,"catalog_packages":3738,"updated_at":"2026-09-15T22:59:09.100609+00:00"}
+{"state":"failed","package":"LCAproject","position":1859,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-t2lil8m9.zip'","updated_at":"2026-09-15T22:59:10.066123+00:00"}
