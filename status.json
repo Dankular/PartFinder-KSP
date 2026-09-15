@@ -1,1 +1,1 @@
-{"state":"processing","package":"InFlightWaypoints","position":1218,"catalog_packages":3738,"updated_at":"2026-09-15T22:36:56.186992+00:00"}
+{"state":"failed","package":"InFlightWaypoints","position":1218,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-3esjm2fn.zip'","updated_at":"2026-09-15T22:36:57.131029+00:00"}
