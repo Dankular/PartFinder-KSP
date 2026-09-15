@@ -1,1 +1,1 @@
-{"state":"processing","package":"EvenMoreObjectsInnerPlanetsAsteroidbelt","position":889,"catalog_packages":3738,"updated_at":"2026-09-15T22:20:26.778394+00:00"}
+{"state":"failed","package":"EvenMoreObjectsInnerPlanetsAsteroidbelt","position":889,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:20:29.332083+00:00"}
