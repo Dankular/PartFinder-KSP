@@ -1,1 +1,1 @@
-{"state":"processing","package":"LowExpectations","position":1902,"catalog_packages":3738,"updated_at":"2026-09-15T23:01:02.461218+00:00"}
+{"state":"failed","package":"LowExpectations","position":1902,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ap18s8u6.zip'","updated_at":"2026-09-15T23:01:03.696598+00:00"}
