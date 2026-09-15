@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbinSideRemasteredTLA","position":1552,"catalog_packages":3738,"updated_at":"2026-09-15T22:46:51.889782+00:00"}
+{"state":"failed","package":"KerbinSideRemasteredTLA","position":1552,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-olljtlxs.zip'","updated_at":"2026-09-15T22:46:52.945369+00:00"}
