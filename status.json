@@ -1,1 +1,1 @@
-{"state":"processing","package":"MakingLessHistory","position":1933,"catalog_packages":3738,"updated_at":"2026-09-15T23:02:22.539522+00:00"}
+{"state":"failed","package":"MakingLessHistory","position":1933,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:02:24.500833+00:00"}
