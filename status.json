@@ -1,1 +1,1 @@
-{"state":"processing","package":"KabramsSunFlaresPack-Blue-Low","position":1316,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:51.018926+00:00"}
+{"state":"failed","package":"KabramsSunFlaresPack-Blue-Low","position":1316,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-qie_p40d.zip'","updated_at":"2026-09-15T22:39:52.048309+00:00"}
