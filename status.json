@@ -1,1 +1,1 @@
-{"state":"processing","package":"ExplorationRoverSystembyASET","position":903,"catalog_packages":3738,"updated_at":"2026-09-15T22:21:12.260131+00:00"}
+{"state":"failed","package":"ExplorationRoverSystembyASET","position":903,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:21:13.802319+00:00"}
