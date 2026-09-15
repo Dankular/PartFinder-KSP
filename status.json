@@ -1,1 +1,1 @@
-{"state":"processing","package":"IR-Kinematics","position":1249,"catalog_packages":3738,"updated_at":"2026-09-15T22:37:52.673669+00:00"}
+{"state":"failed","package":"IR-Kinematics","position":1249,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-fbcing9o.zip'","updated_at":"2026-09-15T22:37:53.494031+00:00"}
