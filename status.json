@@ -1,1 +1,1 @@
-{"state":"processing","package":"DeadSkins","position":689,"catalog_packages":3738,"updated_at":"2026-09-15T22:12:38.512974+00:00"}
+{"state":"failed","package":"DeadSkins","position":689,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-nptpxv4o.zip'","updated_at":"2026-09-15T22:12:39.563197+00:00"}
