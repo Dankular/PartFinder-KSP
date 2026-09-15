@@ -1,1 +1,1 @@
-{"state":"processing","package":"KaribouExpeditionRover","position":1345,"catalog_packages":3738,"updated_at":"2026-09-15T22:40:43.725146+00:00"}
+{"state":"failed","package":"KaribouExpeditionRover","position":1345,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-d2a8utw6.zip'","updated_at":"2026-09-15T22:40:44.586723+00:00"}
