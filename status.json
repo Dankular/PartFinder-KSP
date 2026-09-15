@@ -1,1 +1,1 @@
-{"state":"processing","package":"MilosPlanetPack","position":1995,"catalog_packages":3738,"updated_at":"2026-09-15T23:05:21.166354+00:00"}
+{"state":"failed","package":"MilosPlanetPack","position":1995,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:05:23.624192+00:00"}
