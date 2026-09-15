@@ -1,1 +1,1 @@
-{"state":"processing","package":"Kercules","position":1590,"catalog_packages":3738,"updated_at":"2026-09-15T22:47:58.327819+00:00"}
+{"state":"failed","package":"Kercules","position":1590,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-u5jl1p8o.zip'","updated_at":"2026-09-15T22:47:59.552140+00:00"}
