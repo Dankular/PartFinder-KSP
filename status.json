@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalStockLauncherOverhaul","position":1516,"catalog_packages":3738,"updated_at":"2026-09-15T22:45:45.532807+00:00"}
+{"state":"failed","package":"KerbalStockLauncherOverhaul","position":1516,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-1z53sp8w.zip'","updated_at":"2026-09-15T22:45:46.530983+00:00"}
