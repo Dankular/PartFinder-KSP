@@ -1,1 +1,1 @@
-{"state":"processing","package":"ManeuverNodeEvolved","position":1938,"catalog_packages":3738,"updated_at":"2026-09-15T23:02:35.204701+00:00"}
+{"state":"failed","package":"ManeuverNodeEvolved","position":1938,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:02:38.649824+00:00"}
