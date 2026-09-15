@@ -1,1 +1,1 @@
-{"state":"processing","package":"LoadingScreenManager","position":1891,"catalog_packages":3738,"updated_at":"2026-09-15T23:00:35.850013+00:00"}
+{"state":"failed","package":"LoadingScreenManager","position":1891,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:00:37.362978+00:00"}
