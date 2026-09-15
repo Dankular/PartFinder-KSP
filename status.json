@@ -1,1 +1,1 @@
-{"state":"processing","package":"Ecumenopolis","position":808,"catalog_packages":3738,"updated_at":"2026-09-15T22:16:17.579857+00:00"}
+{"state":"failed","package":"Ecumenopolis","position":808,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-dzmz8r7b.zip'","updated_at":"2026-09-15T22:16:18.353857+00:00"}
