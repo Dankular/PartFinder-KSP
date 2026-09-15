@@ -1,1 +1,1 @@
-{"state":"processing","package":"KramaxAutopilotContinued","position":1700,"catalog_packages":3738,"updated_at":"2026-09-15T22:52:10.912819+00:00"}
+{"state":"failed","package":"KramaxAutopilotContinued","position":1700,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-xlcrm5hk.zip'","updated_at":"2026-09-15T22:52:11.993602+00:00"}
