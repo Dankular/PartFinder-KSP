@@ -1,1 +1,1 @@
-{"state":"processing","package":"JSIAdvancedTransparentPods","position":1300,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:22.956207+00:00"}
+{"state":"failed","package":"JSIAdvancedTransparentPods","position":1300,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-bizq83nd.zip'","updated_at":"2026-09-15T22:39:24.064710+00:00"}
