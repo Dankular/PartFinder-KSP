@@ -1,1 +1,1 @@
-{"state":"processing","package":"DeepFreezeSuitSupport","position":699,"catalog_packages":3738,"updated_at":"2026-09-15T22:12:56.349533+00:00"}
+{"state":"failed","package":"DeepFreezeSuitSupport","position":699,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-6i49zeg6.zip'","updated_at":"2026-09-15T22:12:57.253412+00:00"}
