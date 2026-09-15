@@ -1,1 +1,1 @@
-{"state":"processing","package":"ControlSurfaceToggle","position":590,"catalog_packages":3738,"updated_at":"2026-09-15T22:09:22.223937+00:00"}
+{"state":"failed","package":"ControlSurfaceToggle","position":590,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-1lmmuk2h.zip'","updated_at":"2026-09-15T22:09:23.085949+00:00"}
