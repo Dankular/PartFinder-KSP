@@ -1,1 +1,1 @@
-{"state":"processing","package":"CorrectCoL","position":595,"catalog_packages":3738,"updated_at":"2026-09-15T22:09:33.083681+00:00"}
+{"state":"failed","package":"CorrectCoL","position":595,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-u7gpa3ck.zip'","updated_at":"2026-09-15T22:09:34.054307+00:00"}
