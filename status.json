@@ -1,1 +1,1 @@
-{"state":"processing","package":"KScale2","position":1714,"catalog_packages":3738,"updated_at":"2026-09-15T22:52:46.689056+00:00"}
+{"state":"failed","package":"KScale2","position":1714,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-4jq578r_.zip'","updated_at":"2026-09-15T22:52:47.466442+00:00"}
