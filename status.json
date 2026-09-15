@@ -1,1 +1,1 @@
-{"state":"processing","package":"ContractConfigurator-UsefulSpaceStations","position":580,"catalog_packages":3738,"updated_at":"2026-09-15T22:08:56.691321+00:00"}
+{"state":"failed","package":"ContractConfigurator-UsefulSpaceStations","position":580,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:08:58.188811+00:00"}
