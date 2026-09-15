@@ -1,1 +1,1 @@
-{"state":"processing","package":"kOS","position":1669,"catalog_packages":3738,"updated_at":"2026-09-15T22:50:40.141275+00:00"}
+{"state":"failed","package":"kOS","position":1669,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-9v8ptkze.zip'","updated_at":"2026-09-15T22:50:41.050575+00:00"}
