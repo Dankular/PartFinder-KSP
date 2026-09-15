@@ -1,1 +1,1 @@
-{"state":"processing","package":"DCKFutureTech","position":685,"catalog_packages":3738,"updated_at":"2026-09-15T22:12:31.370976+00:00"}
+{"state":"failed","package":"DCKFutureTech","position":685,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-bwmi01nz.zip'","updated_at":"2026-09-15T22:12:32.320595+00:00"}
