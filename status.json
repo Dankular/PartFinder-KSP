@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbinCup","position":1535,"catalog_packages":3738,"updated_at":"2026-09-15T22:46:20.799801+00:00"}
+{"state":"failed","package":"KerbinCup","position":1535,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-sptcu03v.zip'","updated_at":"2026-09-15T22:46:21.639582+00:00"}
