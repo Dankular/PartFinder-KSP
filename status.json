@@ -1,1 +1,1 @@
-{"state":"processing","package":"Mk1LanderCanIVAReplbyASET","position":2032,"catalog_packages":3738,"updated_at":"2026-09-15T23:07:06.638878+00:00"}
+{"state":"failed","package":"Mk1LanderCanIVAReplbyASET","position":2032,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-fb9sji2l.zip'","updated_at":"2026-09-15T23:07:07.587082+00:00"}
