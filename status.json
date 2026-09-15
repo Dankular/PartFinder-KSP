@@ -1,1 +1,1 @@
-{"state":"processing","package":"EvaFuel","position":876,"catalog_packages":3738,"updated_at":"2026-09-15T22:19:37.953872+00:00"}
+{"state":"failed","package":"EvaFuel","position":876,"catalog_packages":3738,"error":"HTTP Error 404: Not Found","updated_at":"2026-09-15T22:19:40.610134+00:00"}
