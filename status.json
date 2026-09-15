@@ -1,1 +1,1 @@
-{"state":"processing","package":"kOS-SpaceCore","position":1682,"catalog_packages":3738,"updated_at":"2026-09-15T22:51:18.648956+00:00"}
+{"state":"failed","package":"kOS-SpaceCore","position":1682,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-mg_d6mru.zip'","updated_at":"2026-09-15T22:51:19.526056+00:00"}
