@@ -1,1 +1,1 @@
-{"state":"processing","package":"KeslaVanModule","position":1600,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:15.663725+00:00"}
+{"state":"failed","package":"KeslaVanModule","position":1600,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ni_1iggs.zip'","updated_at":"2026-09-15T22:48:16.672438+00:00"}
