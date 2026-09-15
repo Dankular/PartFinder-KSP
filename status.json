@@ -1,1 +1,1 @@
-{"state":"processing","package":"LazTekSpaceXExploration","position":1849,"catalog_packages":3738,"updated_at":"2026-09-15T22:58:47.882471+00:00"}
+{"state":"failed","package":"LazTekSpaceXExploration","position":1849,"catalog_packages":3738,"error":"<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)>","updated_at":"2026-09-15T22:58:49.009094+00:00"}
