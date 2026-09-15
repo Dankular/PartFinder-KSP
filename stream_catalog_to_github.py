@@ -15,6 +15,7 @@ import json
 import os
 import tarfile
 import tempfile
+import time
 import urllib.error
 import urllib.request
 import zipfile
@@ -76,11 +77,32 @@ def archive_url(package: dict) -> str:
     return url.replace(" ", "%20")
 
 
-def inspect_package(package: dict) -> list[str]:
+def download_archive(url: str, destination: str, timeout_seconds: int) -> None:
+    req = urllib.request.Request(url, headers={"User-Agent": "PartFinder-KSP/1.0"})
+    last_error = None
+    for attempt in range(1, 4):
+        started = time.monotonic()
+        try:
+            with urllib.request.urlopen(req, timeout=30) as response, open(destination, "wb") as output:
+                while True:
+                    if time.monotonic() - started > timeout_seconds:
+                        raise TimeoutError(f"archive exceeded {timeout_seconds}s")
+                    chunk = response.read(1024 * 1024)
+                    if not chunk:
+                        return
+                    output.write(chunk)
+        except (OSError, urllib.error.URLError) as exc:
+            last_error = exc
+            if attempt < 3:
+                print(f"archive retry {attempt}/2: {url} ({exc})", flush=True)
+    raise last_error
+
+
+def inspect_package(package: dict, timeout_seconds: int) -> list[str]:
     url = archive_url(package)
     with tempfile.NamedTemporaryFile(prefix="partfinder-", suffix=".zip") as temporary:
-        temporary.write(fetch_bytes(url))
-        temporary.flush()
+        temporary.close()
+        download_archive(url, temporary.name, timeout_seconds)
         with zipfile.ZipFile(temporary.name) as archive:
             parts: set[str] = set()
             for name in archive.namelist():
@@ -126,6 +148,8 @@ def main() -> int:
     parser.add_argument("--token-env", default="PARTFINDER_GITHUB_TOKEN")
     parser.add_argument("--catalog-url", default=DEFAULT_CATALOG)
     parser.add_argument("--limit", type=int)
+    parser.add_argument("--archive-timeout", type=int, default=300,
+                        help="maximum seconds allowed for one archive download")
     args = parser.parse_args()
     token = os.environ.get(args.token_env)
     if not token:
@@ -153,7 +177,7 @@ def main() -> int:
                       "catalog_packages": len(catalog), "updated_at": datetime.now(timezone.utc).isoformat()}
             head = commit(args.repo, token, head, {"status.json": json.dumps(status, separators=(",", ":"))},
                           f"Process {identifier}")
-            package_parts = inspect_package(package)
+            package_parts = inspect_package(package, args.archive_timeout)
             old_parts = old.get("parts", [])
             for part in old_parts:
                 parts[part] = [item for item in parts.get(part, []) if item.get("identifier") != identifier]
@@ -170,13 +194,24 @@ def main() -> int:
             manifest = {"schema_version": 1, "generated_at": datetime.now(timezone.utc).isoformat(),
                         "catalog_packages": len(catalog), "indexed_packages": len(packages),
                         "part_count": len(parts)}
+            completed = {"state": "completed", "package": identifier, "position": number,
+                         "catalog_packages": len(catalog), "updated_at": datetime.now(timezone.utc).isoformat()}
             files = {"parts.json": json.dumps({"schema_version": 1, "parts": parts}, separators=(",", ":")),
                      "packages.json": json.dumps({"schema_version": 1, "packages": packages}, separators=(",", ":")),
-                     "manifest.json": json.dumps(manifest, separators=(",", ":"))}
+                     "manifest.json": json.dumps(manifest, separators=(",", ":")),
+                     "status.json": json.dumps(completed, separators=(",", ":"))}
             head = commit(args.repo, token, head, files, f"Index {identifier}")
             print(f"[{number}/{len(selected)}] committed {identifier} ({len(package_parts)} parts)", flush=True)
         except (OSError, urllib.error.URLError, zipfile.BadZipFile, KeyError, RuntimeError, ValueError) as exc:
             print(f"[{number}/{len(selected)}] failed {identifier}: {exc}", flush=True)
+            try:
+                failed = {"state": "failed", "package": identifier, "position": number,
+                          "catalog_packages": len(catalog), "error": str(exc),
+                          "updated_at": datetime.now(timezone.utc).isoformat()}
+                head = commit(args.repo, token, head, {"status.json": json.dumps(failed, separators=(",", ":"))},
+                              f"Fail {identifier}")
+            except (OSError, urllib.error.URLError, RuntimeError, KeyError, ValueError):
+                pass
     return 0
 
 
