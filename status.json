@@ -1,1 +1,1 @@
-{"state":"processing","package":"mischenTUFX","position":2020,"catalog_packages":3738,"updated_at":"2026-09-15T23:06:35.234384+00:00"}
+{"state":"failed","package":"mischenTUFX","position":2020,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:06:37.627388+00:00"}
