@@ -1,1 +1,1 @@
-{"state":"processing","package":"LunarTransferPlanner","position":1913,"catalog_packages":3738,"updated_at":"2026-09-15T23:01:29.388086+00:00"}
+{"state":"failed","package":"LunarTransferPlanner","position":1913,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:01:30.809417+00:00"}
