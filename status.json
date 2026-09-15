@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalConstructionTime-173","position":1396,"catalog_packages":3738,"updated_at":"2026-09-15T22:42:11.856186+00:00"}
+{"state":"failed","package":"KerbalConstructionTime-173","position":1396,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-2m3_n8_u.zip'","updated_at":"2026-09-15T22:42:12.779087+00:00"}
