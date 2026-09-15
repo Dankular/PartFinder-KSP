@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSPDev-LogConsole","position":1760,"catalog_packages":3738,"updated_at":"2026-09-15T22:54:45.692733+00:00"}
+{"state":"failed","package":"KSPDev-LogConsole","position":1760,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-toiri9fj.zip'","updated_at":"2026-09-15T22:54:46.569693+00:00"}
