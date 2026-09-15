@@ -1,1 +1,1 @@
-{"state":"processing","package":"ForScienceUpdated","position":999,"catalog_packages":3738,"updated_at":"2026-09-15T22:26:34.351128+00:00"}
+{"state":"failed","package":"ForScienceUpdated","position":999,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:26:36.701159+00:00"}
