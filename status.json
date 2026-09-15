@@ -1,1 +1,1 @@
-{"state":"processing","package":"DefaultActionGroups","position":704,"catalog_packages":3738,"updated_at":"2026-09-15T22:13:04.904949+00:00"}
+{"state":"failed","package":"DefaultActionGroups","position":704,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-dvvyg5jf.zip'","updated_at":"2026-09-15T22:13:06.094430+00:00"}
