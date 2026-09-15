@@ -1,1 +1,1 @@
-{"state":"processing","package":"GimbalTrim","position":1049,"catalog_packages":3738,"updated_at":"2026-09-15T22:29:37.061860+00:00"}
+{"state":"failed","package":"GimbalTrim","position":1049,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:29:38.192035+00:00"}
