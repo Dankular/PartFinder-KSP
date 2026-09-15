@@ -1,1 +1,1 @@
-{"state":"processing","package":"JupiteryJoolRecolor-Kopernicus","position":1303,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:28.289236+00:00"}
+{"state":"failed","package":"JupiteryJoolRecolor-Kopernicus","position":1303,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-dlm6eohi.zip'","updated_at":"2026-09-15T22:39:29.308322+00:00"}
