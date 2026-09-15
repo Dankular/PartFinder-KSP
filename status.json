@@ -1,1 +1,1 @@
-{"state":"processing","package":"KduffersMultiwheels","position":1363,"catalog_packages":3738,"updated_at":"2026-09-15T22:41:14.743125+00:00"}
+{"state":"failed","package":"KduffersMultiwheels","position":1363,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-rb5xlmod.zip'","updated_at":"2026-09-15T22:41:15.698561+00:00"}
