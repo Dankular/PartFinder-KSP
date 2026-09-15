@@ -1,1 +1,1 @@
-{"state":"processing","package":"DavonTCsystemsMod","position":683,"catalog_packages":3738,"updated_at":"2026-09-15T22:12:27.785965+00:00"}
+{"state":"failed","package":"DavonTCsystemsMod","position":683,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-qduv3pvj.zip'","updated_at":"2026-09-15T22:12:28.661356+00:00"}
