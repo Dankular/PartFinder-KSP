@@ -1,1 +1,1 @@
-{"state":"processing","package":"JettisonFuel","position":1281,"catalog_packages":3738,"updated_at":"2026-09-15T22:38:48.601917+00:00"}
+{"state":"failed","package":"JettisonFuel","position":1281,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-bebpj0kc.zip'","updated_at":"2026-09-15T22:38:49.495929+00:00"}
