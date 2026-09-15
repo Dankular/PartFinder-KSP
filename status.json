@@ -1,1 +1,1 @@
-{"state":"processing","package":"HullBreach","position":1180,"catalog_packages":3738,"updated_at":"2026-09-15T22:35:27.255078+00:00"}
+{"state":"failed","package":"HullBreach","position":1180,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-rjfm42w3.zip'","updated_at":"2026-09-15T22:35:28.075849+00:00"}
