@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalizedFlagpack","position":1460,"catalog_packages":3738,"updated_at":"2026-09-15T22:44:05.395640+00:00"}
+{"state":"failed","package":"KerbalizedFlagpack","position":1460,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-at7f0biq.zip'","updated_at":"2026-09-15T22:44:06.239336+00:00"}
