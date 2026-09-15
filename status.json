@@ -1,1 +1,1 @@
-{"state":"processing","package":"MidweeksGreenTUFXConfig","position":1984,"catalog_packages":3738,"updated_at":"2026-09-15T23:04:39.504350+00:00"}
+{"state":"failed","package":"MidweeksGreenTUFXConfig","position":1984,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-d9w3d0rp.zip'","updated_at":"2026-09-15T23:04:40.338933+00:00"}
