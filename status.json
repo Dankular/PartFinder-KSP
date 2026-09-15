@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalMassSimulatorforExternalChair","position":1480,"catalog_packages":3738,"updated_at":"2026-09-15T22:44:42.186788+00:00"}
+{"state":"failed","package":"KerbalMassSimulatorforExternalChair","position":1480,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-es12i1uu.zip'","updated_at":"2026-09-15T22:44:43.077379+00:00"}
