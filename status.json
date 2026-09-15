@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbNoteLite","position":1557,"catalog_packages":3738,"updated_at":"2026-09-15T22:47:00.612940+00:00"}
+{"state":"failed","package":"KerbNoteLite","position":1557,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-gapml6rn.zip'","updated_at":"2026-09-15T22:47:01.385954+00:00"}
