@@ -1,1 +1,1 @@
-{"state":"processing","package":"LowEndVolumetricCloudsMod","position":1901,"catalog_packages":3738,"updated_at":"2026-09-15T23:01:00.482566+00:00"}
+{"state":"failed","package":"LowEndVolumetricCloudsMod","position":1901,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-bx0zyd3z.zip'","updated_at":"2026-09-15T23:01:01.557035+00:00"}
