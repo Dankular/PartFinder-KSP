@@ -1,1 +1,1 @@
-{"state":"processing","package":"MilitarySuitTextures","position":1991,"catalog_packages":3738,"updated_at":"2026-09-15T23:05:07.591202+00:00"}
+{"state":"failed","package":"MilitarySuitTextures","position":1991,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:05:10.334491+00:00"}
