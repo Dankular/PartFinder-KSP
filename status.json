@@ -1,1 +1,1 @@
-{"state":"processing","package":"KHWearableKISProps","position":1609,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:32.298775+00:00"}
+{"state":"failed","package":"KHWearableKISProps","position":1609,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-djp97so0.zip'","updated_at":"2026-09-15T22:48:33.134269+00:00"}
