@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalModsOverhaul","position":1483,"catalog_packages":3738,"updated_at":"2026-09-15T22:44:47.162801+00:00"}
+{"state":"failed","package":"KerbalModsOverhaul","position":1483,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ciart8u8.zip'","updated_at":"2026-09-15T22:44:47.953059+00:00"}
