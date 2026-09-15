@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSPInterstellarExtended","position":1763,"catalog_packages":3738,"updated_at":"2026-09-15T22:54:55.415779+00:00"}
+{"state":"failed","package":"KSPInterstellarExtended","position":1763,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-78gw_gjp.zip'","updated_at":"2026-09-15T22:54:56.374839+00:00"}
