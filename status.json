@@ -1,1 +1,1 @@
-{"state":"processing","package":"HeatControl-Core","position":1136,"catalog_packages":3738,"updated_at":"2026-09-15T22:33:19.740974+00:00"}
+{"state":"failed","package":"HeatControl-Core","position":1136,"catalog_packages":3738,"error":"HTTP Error 403: Forbidden","updated_at":"2026-09-15T22:33:22.421203+00:00"}
