@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerboKatzSmallUtilities-DestroyAll","position":1564,"catalog_packages":3738,"updated_at":"2026-09-15T22:47:12.040105+00:00"}
+{"state":"failed","package":"KerboKatzSmallUtilities-DestroyAll","position":1564,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-iqx9h_im.zip'","updated_at":"2026-09-15T22:47:12.964279+00:00"}
