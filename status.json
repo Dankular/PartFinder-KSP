@@ -1,1 +1,1 @@
-{"state":"processing","package":"FillitUp","position":958,"catalog_packages":3738,"updated_at":"2026-09-15T22:24:26.670396+00:00"}
+{"state":"failed","package":"FillitUp","position":958,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:24:28.086372+00:00"}
