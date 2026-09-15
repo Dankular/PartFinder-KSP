@@ -1,1 +1,1 @@
-{"state":"processing","package":"DarkTexturePack","position":677,"catalog_packages":3738,"updated_at":"2026-09-15T22:12:16.618968+00:00"}
+{"state":"failed","package":"DarkTexturePack","position":677,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-oyf5_d6d.zip'","updated_at":"2026-09-15T22:12:17.606866+00:00"}
