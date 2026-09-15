@@ -1,1 +1,1 @@
-{"state":"processing","package":"KabramsSunFlaresPack-Diamond-Medium","position":1320,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:58.408004+00:00"}
+{"state":"failed","package":"KabramsSunFlaresPack-Diamond-Medium","position":1320,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-iwfqgv21.zip'","updated_at":"2026-09-15T22:39:59.357568+00:00"}
