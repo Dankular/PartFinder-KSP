@@ -1,1 +1,1 @@
-{"state":"processing","package":"CZ2LaunchSystem","position":662,"catalog_packages":3738,"updated_at":"2026-09-15T22:11:47.167274+00:00"}
+{"state":"failed","package":"CZ2LaunchSystem","position":662,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-3_x8uwqp.zip'","updated_at":"2026-09-15T22:11:48.184926+00:00"}
