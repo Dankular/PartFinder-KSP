@@ -1,1 +1,1 @@
-{"state":"processing","package":"ChopIt","position":457,"catalog_packages":3738,"updated_at":"2026-09-15T22:02:23.123413+00:00"}
+{"state":"failed","package":"ChopIt","position":457,"catalog_packages":3738,"error":"<urlopen error [Errno -2] Name or service not known>","updated_at":"2026-09-15T22:02:24.063724+00:00"}
