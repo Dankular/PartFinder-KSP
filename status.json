@@ -1,1 +1,1 @@
-{"state":"processing","package":"Grounded","position":1091,"catalog_packages":3738,"updated_at":"2026-09-15T22:31:24.011894+00:00"}
+{"state":"failed","package":"Grounded","position":1091,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-luc1vi8o.zip'","updated_at":"2026-09-15T22:31:24.798487+00:00"}
