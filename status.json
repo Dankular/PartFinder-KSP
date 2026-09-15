@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbinSideKSC2","position":1548,"catalog_packages":3738,"updated_at":"2026-09-15T22:46:44.239192+00:00"}
+{"state":"failed","package":"KerbinSideKSC2","position":1548,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-by9k7_re.zip'","updated_at":"2026-09-15T22:46:45.260575+00:00"}
