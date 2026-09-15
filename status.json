@@ -1,1 +1,1 @@
-{"state":"failed","package":"LazTekSpaceXHistoric","position":1852,"catalog_packages":3738,"error":"<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)>","updated_at":"2026-09-15T22:58:54.926526+00:00"}
+{"state":"processing","package":"LazTekSpaceXHistoric-HD","position":1853,"catalog_packages":3738,"updated_at":"2026-09-15T22:58:56.055122+00:00"}
