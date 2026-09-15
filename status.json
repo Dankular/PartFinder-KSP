@@ -1,1 +1,1 @@
-{"state":"processing","package":"Kerbalism-Config-ScienceOnly","position":1441,"catalog_packages":3738,"updated_at":"2026-09-15T22:43:29.988313+00:00"}
+{"state":"failed","package":"Kerbalism-Config-ScienceOnly","position":1441,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-qaqznxd1.zip'","updated_at":"2026-09-15T22:43:30.830835+00:00"}
