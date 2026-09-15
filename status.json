@@ -1,1 +1,1 @@
-{"state":"processing","package":"HabTechProps","position":1103,"catalog_packages":3738,"updated_at":"2026-09-15T22:31:58.395343+00:00"}
+{"state":"failed","package":"HabTechProps","position":1103,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-sgl5gq5j.zip'","updated_at":"2026-09-15T22:31:59.114221+00:00"}
