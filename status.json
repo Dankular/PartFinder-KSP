@@ -1,1 +1,1 @@
-{"state":"processing","package":"InnerLock","position":1221,"catalog_packages":3738,"updated_at":"2026-09-15T22:37:01.447993+00:00"}
+{"state":"failed","package":"InnerLock","position":1221,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ilxg2yc_.zip'","updated_at":"2026-09-15T22:37:02.299470+00:00"}
