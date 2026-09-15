@@ -1,1 +1,1 @@
-{"state":"processing","package":"DeepJeb","position":700,"catalog_packages":3738,"updated_at":"2026-09-15T22:12:58.052908+00:00"}
+{"state":"failed","package":"DeepJeb","position":700,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-y3oa1b8o.zip'","updated_at":"2026-09-15T22:12:58.978928+00:00"}
