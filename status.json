@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbfleetPlanetPackTheKerbulusSystem","position":1532,"catalog_packages":3738,"updated_at":"2026-09-15T22:46:15.121255+00:00"}
+{"state":"failed","package":"KerbfleetPlanetPackTheKerbulusSystem","position":1532,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-demmw9wq.zip'","updated_at":"2026-09-15T22:46:15.872234+00:00"}
