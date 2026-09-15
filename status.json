@@ -1,1 +1,1 @@
-{"state":"processing","package":"KebalizedMoons","position":1366,"catalog_packages":3738,"updated_at":"2026-09-15T22:41:20.250761+00:00"}
+{"state":"failed","package":"KebalizedMoons","position":1366,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-nmliwpt0.zip'","updated_at":"2026-09-15T22:41:21.037563+00:00"}
