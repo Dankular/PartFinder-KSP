@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalKomets-PlayMode-CRP","position":1469,"catalog_packages":3738,"updated_at":"2026-09-15T22:44:21.358072+00:00"}
+{"state":"failed","package":"KerbalKomets-PlayMode-CRP","position":1469,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-r5p75npr.zip'","updated_at":"2026-09-15T22:44:22.118685+00:00"}
