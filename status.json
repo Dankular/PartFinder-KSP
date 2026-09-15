@@ -1,1 +1,1 @@
-{"state":"processing","package":"MemoryUsage","position":1970,"catalog_packages":3738,"updated_at":"2026-09-15T23:04:02.783525+00:00"}
+{"state":"failed","package":"MemoryUsage","position":1970,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-mb80h_i0.zip'","updated_at":"2026-09-15T23:04:03.795299+00:00"}
