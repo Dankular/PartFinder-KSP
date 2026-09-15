@@ -1,1 +1,1 @@
-{"state":"processing","package":"JasonsTUFXProfileRealisticVersion","position":1271,"catalog_packages":3738,"updated_at":"2026-09-15T22:38:30.625099+00:00"}
+{"state":"failed","package":"JasonsTUFXProfileRealisticVersion","position":1271,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-gj15goqh.zip'","updated_at":"2026-09-15T22:38:31.395272+00:00"}
