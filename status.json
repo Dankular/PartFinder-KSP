@@ -1,1 +1,1 @@
-{"state":"processing","package":"KE-01-RTG","position":1364,"catalog_packages":3738,"updated_at":"2026-09-15T22:41:16.653303+00:00"}
+{"state":"failed","package":"KE-01-RTG","position":1364,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-n325vdkd.zip'","updated_at":"2026-09-15T22:41:17.393752+00:00"}
