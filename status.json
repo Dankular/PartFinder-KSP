@@ -1,1 +1,1 @@
-{"state":"processing","package":"MechJebEmbeddedUniversalFree","position":1962,"catalog_packages":3738,"updated_at":"2026-09-15T23:03:44.337230+00:00"}
+{"state":"failed","package":"MechJebEmbeddedUniversalFree","position":1962,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-t2bnpufj.zip'","updated_at":"2026-09-15T23:03:45.337801+00:00"}
