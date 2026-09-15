@@ -1,1 +1,1 @@
-{"state":"processing","package":"MeatlessIndustries","position":1959,"catalog_packages":3738,"updated_at":"2026-09-15T23:03:31.786821+00:00"}
+{"state":"failed","package":"MeatlessIndustries","position":1959,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:03:39.832793+00:00"}
