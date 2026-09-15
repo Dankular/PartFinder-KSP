@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSPWheel","position":1790,"catalog_packages":3738,"updated_at":"2026-09-15T22:56:04.870764+00:00"}
+{"state":"failed","package":"KSPWheel","position":1790,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-s1iwzoiw.zip'","updated_at":"2026-09-15T22:56:05.790424+00:00"}
