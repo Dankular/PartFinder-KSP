@@ -1,1 +1,1 @@
-{"state":"processing","package":"Jettison","position":1280,"catalog_packages":3738,"updated_at":"2026-09-15T22:38:46.832757+00:00"}
+{"state":"failed","package":"Jettison","position":1280,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-srgqin2l.zip'","updated_at":"2026-09-15T22:38:47.767209+00:00"}
