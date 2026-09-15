@@ -1,1 +1,1 @@
-{"state":"processing","package":"FuelVent-RP","position":1018,"catalog_packages":3738,"updated_at":"2026-09-15T22:28:03.504016+00:00"}
+{"state":"failed","package":"FuelVent-RP","position":1018,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:28:05.367549+00:00"}
