@@ -1,1 +1,1 @@
-{"state":"processing","package":"GPOSpeedPump","position":1058,"catalog_packages":3738,"updated_at":"2026-09-15T22:29:58.464728+00:00"}
+{"state":"failed","package":"GPOSpeedPump","position":1058,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:30:00.569869+00:00"}
