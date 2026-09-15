@@ -1,1 +1,1 @@
-{"state":"failed","package":"CTTStockRebalance","position":634,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-furnoqqs.zip'","updated_at":"2026-09-15T22:10:56.339550+00:00"}
+{"state":"processing","package":"CursorDeleter","position":635,"catalog_packages":3738,"updated_at":"2026-09-15T22:10:57.384282+00:00"}
