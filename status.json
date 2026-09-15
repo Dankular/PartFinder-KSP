@@ -1,1 +1,1 @@
-{"state":"processing","package":"MiporiaPlanetPack","position":2015,"catalog_packages":3738,"updated_at":"2026-09-15T23:06:24.129323+00:00"}
+{"state":"failed","package":"MiporiaPlanetPack","position":2015,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:06:27.334725+00:00"}
