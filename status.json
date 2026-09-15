@@ -1,1 +1,1 @@
-{"state":"processing","package":"KopernicusExpansionContinued-ModularNoise","position":1659,"catalog_packages":3738,"updated_at":"2026-09-15T22:50:12.052068+00:00"}
+{"state":"failed","package":"KopernicusExpansionContinued-ModularNoise","position":1659,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-y5vfo9k0.zip'","updated_at":"2026-09-15T22:50:12.852454+00:00"}
