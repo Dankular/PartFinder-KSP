@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSTS","position":1794,"catalog_packages":3738,"updated_at":"2026-09-15T22:56:15.716794+00:00"}
+{"state":"failed","package":"KSTS","position":1794,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:56:17.265572+00:00"}
