@@ -1,1 +1,1 @@
-{"state":"processing","package":"CJUV","position":468,"catalog_packages":3738,"updated_at":"2026-09-15T22:02:59.039070+00:00"}
+{"state":"failed","package":"CJUV","position":468,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:03:01.571849+00:00"}
