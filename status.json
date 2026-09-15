@@ -1,1 +1,1 @@
-{"state":"processing","package":"CosmicSerenityFinalFrontierRibbonPack","position":603,"catalog_packages":3738,"updated_at":"2026-09-15T22:09:49.750194+00:00"}
+{"state":"failed","package":"CosmicSerenityFinalFrontierRibbonPack","position":603,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-9us32_df.zip'","updated_at":"2026-09-15T22:09:50.543425+00:00"}
