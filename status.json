@@ -1,1 +1,1 @@
-{"state":"processing","package":"JanelliesGimbalTrim","position":1267,"catalog_packages":3738,"updated_at":"2026-09-15T22:38:24.064215+00:00"}
+{"state":"failed","package":"JanelliesGimbalTrim","position":1267,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-27lp2uto.zip'","updated_at":"2026-09-15T22:38:24.819832+00:00"}
