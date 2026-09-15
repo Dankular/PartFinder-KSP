@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalPowersArmory","position":1495,"catalog_packages":3738,"updated_at":"2026-09-15T22:45:08.367997+00:00"}
+{"state":"failed","package":"KerbalPowersArmory","position":1495,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-o130rvjy.zip'","updated_at":"2026-09-15T22:45:09.091179+00:00"}
