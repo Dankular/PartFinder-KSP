@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalEnvironmentalEffectsStudy","position":1401,"catalog_packages":3738,"updated_at":"2026-09-15T22:42:20.397432+00:00"}
+{"state":"failed","package":"KerbalEnvironmentalEffectsStudy","position":1401,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-96_8qy23.zip'","updated_at":"2026-09-15T22:42:21.380595+00:00"}
