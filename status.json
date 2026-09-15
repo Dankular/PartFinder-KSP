@@ -1,1 +1,1 @@
-{"state":"processing","package":"DansScienceOverhaul","position":670,"catalog_packages":3738,"updated_at":"2026-09-15T22:12:03.175917+00:00"}
+{"state":"failed","package":"DansScienceOverhaul","position":670,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-r69epxf9.zip'","updated_at":"2026-09-15T22:12:04.382936+00:00"}
