@@ -1,1 +1,1 @@
-{"state":"processing","package":"DistantObject-RealSolarSystem","position":732,"catalog_packages":3738,"updated_at":"2026-09-15T22:13:57.705082+00:00"}
+{"state":"failed","package":"DistantObject-RealSolarSystem","position":732,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-o_06n59l.zip'","updated_at":"2026-09-15T22:13:59.138845+00:00"}
