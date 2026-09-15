@@ -1,1 +1,1 @@
-{"state":"processing","package":"DockRotate","position":756,"catalog_packages":3738,"updated_at":"2026-09-15T22:14:42.436375+00:00"}
+{"state":"failed","package":"DockRotate","position":756,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-_na6kf26.zip'","updated_at":"2026-09-15T22:14:43.292753+00:00"}
