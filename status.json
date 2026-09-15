@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalHacksDroptankWrapper","position":1427,"catalog_packages":3738,"updated_at":"2026-09-15T22:43:05.704099+00:00"}
+{"state":"failed","package":"KerbalHacksDroptankWrapper","position":1427,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ae1z6o__.zip'","updated_at":"2026-09-15T22:43:06.476894+00:00"}
