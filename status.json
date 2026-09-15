@@ -1,1 +1,1 @@
-{"state":"processing","package":"ManuverTrails","position":1944,"catalog_packages":3738,"updated_at":"2026-09-15T23:02:51.242471+00:00"}
+{"state":"failed","package":"ManuverTrails","position":1944,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-5ip1zuy3.zip'","updated_at":"2026-09-15T23:02:52.035168+00:00"}
