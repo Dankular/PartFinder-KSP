@@ -1,1 +1,1 @@
-{"state":"processing","package":"LSPFlags","position":1903,"catalog_packages":3738,"updated_at":"2026-09-15T23:01:04.633026+00:00"}
+{"state":"failed","package":"LSPFlags","position":1903,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-usg1rr62.zip'","updated_at":"2026-09-15T23:01:05.555179+00:00"}
