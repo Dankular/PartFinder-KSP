@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalPlanetaryBaseSystems","position":1493,"catalog_packages":3738,"updated_at":"2026-09-15T22:45:04.758259+00:00"}
+{"state":"failed","package":"KerbalPlanetaryBaseSystems","position":1493,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-1byv4la6.zip'","updated_at":"2026-09-15T22:45:05.922228+00:00"}
