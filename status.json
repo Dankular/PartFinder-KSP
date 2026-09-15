@@ -1,1 +1,1 @@
-{"state":"processing","package":"LongMarch10CZ10","position":1893,"catalog_packages":3738,"updated_at":"2026-09-15T23:00:41.403544+00:00"}
+{"state":"failed","package":"LongMarch10CZ10","position":1893,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-3jjkx2re.zip'","updated_at":"2026-09-15T23:00:42.334744+00:00"}
