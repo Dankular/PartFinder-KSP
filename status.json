@@ -1,1 +1,1 @@
-{"state":"processing","package":"KPseudonym-ConfigPack-International","position":1695,"catalog_packages":3738,"updated_at":"2026-09-15T22:51:58.552868+00:00"}
+{"state":"failed","package":"KPseudonym-ConfigPack-International","position":1695,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-3vtpi7i9.zip'","updated_at":"2026-09-15T22:51:59.299814+00:00"}
