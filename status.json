@@ -1,1 +1,1 @@
-{"state":"processing","package":"MechJebFARExt","position":1963,"catalog_packages":3738,"updated_at":"2026-09-15T23:03:46.179923+00:00"}
+{"state":"failed","package":"MechJebFARExt","position":1963,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-cyig_mra.zip'","updated_at":"2026-09-15T23:03:47.141273+00:00"}
