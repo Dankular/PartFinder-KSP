@@ -1,1 +1,1 @@
-{"state":"processing","package":"DunaPlus","position":788,"catalog_packages":3738,"updated_at":"2026-09-15T22:15:41.333051+00:00"}
+{"state":"failed","package":"DunaPlus","position":788,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-2ksc1ep3.zip'","updated_at":"2026-09-15T22:15:42.246293+00:00"}
