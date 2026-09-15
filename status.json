@@ -1,1 +1,1 @@
-{"state":"processing","package":"LinbolSystemRebirth-StockScale","position":1881,"catalog_packages":3738,"updated_at":"2026-09-15T23:00:03.195457+00:00"}
+{"state":"failed","package":"LinbolSystemRebirth-StockScale","position":1881,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-61ymr5_h.zip'","updated_at":"2026-09-15T23:00:04.358861+00:00"}
