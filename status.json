@@ -1,1 +1,1 @@
-{"state":"processing","package":"HeatControl","position":1135,"catalog_packages":3738,"updated_at":"2026-09-15T22:33:17.592198+00:00"}
+{"state":"failed","package":"HeatControl","position":1135,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-s1clzi2s.zip'","updated_at":"2026-09-15T22:33:18.536906+00:00"}
