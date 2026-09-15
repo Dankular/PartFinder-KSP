@@ -1,1 +1,1 @@
-{"state":"processing","package":"DMagicOrbitalScience","position":740,"catalog_packages":3738,"updated_at":"2026-09-15T22:14:13.861127+00:00"}
+{"state":"failed","package":"DMagicOrbitalScience","position":740,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-uenh_fqb.zip'","updated_at":"2026-09-15T22:14:14.744351+00:00"}
