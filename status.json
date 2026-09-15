@@ -1,1 +1,1 @@
-{"state":"processing","package":"Mk2PodWhite","position":2043,"catalog_packages":3738,"updated_at":"2026-09-15T23:07:39.855812+00:00"}
+{"state":"failed","package":"Mk2PodWhite","position":2043,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ydookah_.zip'","updated_at":"2026-09-15T23:07:40.595433+00:00"}
