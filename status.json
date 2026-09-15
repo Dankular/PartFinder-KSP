@@ -1,1 +1,1 @@
-{"state":"processing","package":"CST100Starliner","position":633,"catalog_packages":3738,"updated_at":"2026-09-15T22:10:51.852423+00:00"}
+{"state":"failed","package":"CST100Starliner","position":633,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-7ighrrpy.zip'","updated_at":"2026-09-15T22:10:52.709612+00:00"}
