@@ -1,1 +1,1 @@
-{"state":"processing","package":"Kurrikane","position":1800,"catalog_packages":3738,"updated_at":"2026-09-15T22:56:33.828958+00:00"}
+{"state":"failed","package":"Kurrikane","position":1800,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-tbficlp5.zip'","updated_at":"2026-09-15T22:56:35.403028+00:00"}
