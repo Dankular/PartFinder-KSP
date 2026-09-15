@@ -1,1 +1,1 @@
-{"state":"processing","package":"JSat","position":1298,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:19.753582+00:00"}
+{"state":"failed","package":"JSat","position":1298,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-q8oo2jfq.zip'","updated_at":"2026-09-15T22:39:20.597008+00:00"}
