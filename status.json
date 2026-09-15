@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalFoundriesExpansion","position":1411,"catalog_packages":3738,"updated_at":"2026-09-15T22:42:37.943523+00:00"}
+{"state":"failed","package":"KerbalFoundriesExpansion","position":1411,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-jflg26iv.zip'","updated_at":"2026-09-15T22:42:38.833928+00:00"}
