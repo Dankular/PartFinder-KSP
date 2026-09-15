@@ -1,1 +1,1 @@
-{"state":"processing","package":"KabramsSunFlaresPack-White-Low","position":1331,"catalog_packages":3738,"updated_at":"2026-09-15T22:40:18.212269+00:00"}
+{"state":"failed","package":"KabramsSunFlaresPack-White-Low","position":1331,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-dfg51_0u.zip'","updated_at":"2026-09-15T22:40:18.978571+00:00"}
