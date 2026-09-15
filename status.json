@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalPowersCore","position":1496,"catalog_packages":3738,"updated_at":"2026-09-15T22:45:10.066037+00:00"}
+{"state":"failed","package":"KerbalPowersCore","position":1496,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-bcffagan.zip'","updated_at":"2026-09-15T22:45:10.874446+00:00"}
