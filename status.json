@@ -1,1 +1,1 @@
-{"state":"processing","package":"LadderWarp","position":1820,"catalog_packages":3738,"updated_at":"2026-09-15T22:57:28.296848+00:00"}
+{"state":"failed","package":"LadderWarp","position":1820,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-7dfnh9l5.zip'","updated_at":"2026-09-15T22:57:29.104226+00:00"}
