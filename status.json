@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSPLogiRGB-battlemoose","position":1770,"catalog_packages":3738,"updated_at":"2026-09-15T22:55:10.653395+00:00"}
+{"state":"failed","package":"KSPLogiRGB-battlemoose","position":1770,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-szvs84sq.zip'","updated_at":"2026-09-15T22:55:11.589575+00:00"}
