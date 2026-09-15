@@ -1,1 +1,1 @@
-{"state":"processing","package":"Mk2CockpitExpansion","position":2038,"catalog_packages":3738,"updated_at":"2026-09-15T23:07:19.608518+00:00"}
+{"state":"failed","package":"Mk2CockpitExpansion","position":2038,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:07:30.248012+00:00"}
