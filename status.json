@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbolsHumbleNeighboringStars","position":1581,"catalog_packages":3738,"updated_at":"2026-09-15T22:47:42.545903+00:00"}
+{"state":"failed","package":"KerbolsHumbleNeighboringStars","position":1581,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-mwdd0qmb.zip'","updated_at":"2026-09-15T22:47:43.466256+00:00"}
