@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerboKatzSmallUtilities-PhysicalTimeRatioViewer","position":1572,"catalog_packages":3738,"updated_at":"2026-09-15T22:47:26.585802+00:00"}
+{"state":"failed","package":"KerboKatzSmallUtilities-PhysicalTimeRatioViewer","position":1572,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-pld1uvak.zip'","updated_at":"2026-09-15T22:47:27.391238+00:00"}
