@@ -1,1 +1,1 @@
-{"state":"processing","package":"KASAFlagPackandTUFXProfile","position":1348,"catalog_packages":3738,"updated_at":"2026-09-15T22:40:48.619089+00:00"}
+{"state":"failed","package":"KASAFlagPackandTUFXProfile","position":1348,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ok8ki0n6.zip'","updated_at":"2026-09-15T22:40:49.405246+00:00"}
