@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalWitchery","position":1526,"catalog_packages":3738,"updated_at":"2026-09-15T22:46:04.137874+00:00"}
+{"state":"failed","package":"KerbalWitchery","position":1526,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-d321rfpz.zip'","updated_at":"2026-09-15T22:46:04.948828+00:00"}
