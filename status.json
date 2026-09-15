@@ -1,1 +1,1 @@
-{"state":"processing","package":"JoolRings","position":1296,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:15.917065+00:00"}
+{"state":"failed","package":"JoolRings","position":1296,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ljrd1itx.zip'","updated_at":"2026-09-15T22:39:16.709159+00:00"}
