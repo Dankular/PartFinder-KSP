@@ -1,1 +1,1 @@
-{"state":"processing","package":"CrewVessels","position":619,"catalog_packages":3738,"updated_at":"2026-09-15T22:10:24.779224+00:00"}
+{"state":"failed","package":"CrewVessels","position":619,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-7iohf2_p.zip'","updated_at":"2026-09-15T22:10:25.810041+00:00"}
