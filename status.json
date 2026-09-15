@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalLaunchVehicles","position":1476,"catalog_packages":3738,"updated_at":"2026-09-15T22:44:34.983942+00:00"}
+{"state":"failed","package":"KerbalLaunchVehicles","position":1476,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-po8akkkm.zip'","updated_at":"2026-09-15T22:44:35.798398+00:00"}
