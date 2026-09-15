@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSCEnhanced","position":1716,"catalog_packages":3738,"updated_at":"2026-09-15T22:52:51.756082+00:00"}
+{"state":"failed","package":"KSCEnhanced","position":1716,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-de752osl.zip'","updated_at":"2026-09-15T22:52:52.545021+00:00"}
