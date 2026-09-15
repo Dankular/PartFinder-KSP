@@ -1,1 +1,1 @@
-{"state":"processing","package":"HTV2Falcon-RP-1","position":1177,"catalog_packages":3738,"updated_at":"2026-09-15T22:35:20.310394+00:00"}
+{"state":"failed","package":"HTV2Falcon-RP-1","position":1177,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-cpl878_k.zip'","updated_at":"2026-09-15T22:35:21.041340+00:00"}
