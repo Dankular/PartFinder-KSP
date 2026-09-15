@@ -1,1 +1,1 @@
-{"state":"processing","package":"Mk3ShuttleMidDeckIVARefurbished","position":2055,"catalog_packages":3738,"updated_at":"2026-09-15T23:08:13.662034+00:00"}
+{"state":"failed","package":"Mk3ShuttleMidDeckIVARefurbished","position":2055,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-96lpv4kl.zip'","updated_at":"2026-09-15T23:08:14.593476+00:00"}
