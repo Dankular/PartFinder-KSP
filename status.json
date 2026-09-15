@@ -1,1 +1,1 @@
-{"state":"processing","package":"DansSunflareRSS","position":671,"catalog_packages":3738,"updated_at":"2026-09-15T22:12:05.233058+00:00"}
+{"state":"failed","package":"DansSunflareRSS","position":671,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-pigpadhj.zip'","updated_at":"2026-09-15T22:12:06.214230+00:00"}
