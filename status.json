@@ -1,1 +1,1 @@
-{"state":"processing","package":"InternalRCS","position":1236,"catalog_packages":3738,"updated_at":"2026-09-15T22:37:28.641952+00:00"}
+{"state":"failed","package":"InternalRCS","position":1236,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-sp0d5m4m.zip'","updated_at":"2026-09-15T22:37:29.602061+00:00"}
