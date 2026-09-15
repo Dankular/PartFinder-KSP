@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalLaunchFailure","position":1475,"catalog_packages":3738,"updated_at":"2026-09-15T22:44:32.482586+00:00"}
+{"state":"failed","package":"KerbalLaunchFailure","position":1475,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-zh5fbfcn.zip'","updated_at":"2026-09-15T22:44:33.921603+00:00"}
