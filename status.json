@@ -1,1 +1,1 @@
-{"state":"processing","package":"J1407System","position":1261,"catalog_packages":3738,"updated_at":"2026-09-15T22:38:13.876975+00:00"}
+{"state":"failed","package":"J1407System","position":1261,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-7lvdilw7.zip'","updated_at":"2026-09-15T22:38:14.648513+00:00"}
