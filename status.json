@@ -1,1 +1,1 @@
-{"state":"processing","package":"HarderSolarSystem-2x","position":1119,"catalog_packages":3738,"updated_at":"2026-09-15T22:32:43.790394+00:00"}
+{"state":"failed","package":"HarderSolarSystem-2x","position":1119,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-to63fz_y.zip'","updated_at":"2026-09-15T22:32:44.506612+00:00"}
