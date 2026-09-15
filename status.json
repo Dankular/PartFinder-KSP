@@ -1,1 +1,1 @@
-{"state":"processing","package":"DMTanks-CargoBays","position":743,"catalog_packages":3738,"updated_at":"2026-09-15T22:14:19.668221+00:00"}
+{"state":"failed","package":"DMTanks-CargoBays","position":743,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-2ug_wsw5.zip'","updated_at":"2026-09-15T22:14:20.462543+00:00"}
