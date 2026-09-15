@@ -1,1 +1,1 @@
-{"state":"processing","package":"CraftManager","position":609,"catalog_packages":3738,"updated_at":"2026-09-15T22:10:02.589868+00:00"}
+{"state":"failed","package":"CraftManager","position":609,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ff6dy5r3.zip'","updated_at":"2026-09-15T22:10:03.581361+00:00"}
