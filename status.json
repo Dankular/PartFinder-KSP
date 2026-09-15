@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalHotSeatCont","position":1433,"catalog_packages":3738,"updated_at":"2026-09-15T22:43:16.108130+00:00"}
+{"state":"failed","package":"KerbalHotSeatCont","position":1433,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-hc9alykv.zip'","updated_at":"2026-09-15T22:43:17.193873+00:00"}
