@@ -1,1 +1,1 @@
-{"state":"processing","package":"InlineBallutes","position":1220,"catalog_packages":3738,"updated_at":"2026-09-15T22:36:59.704162+00:00"}
+{"state":"failed","package":"InlineBallutes","position":1220,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-qkfv2_6u.zip'","updated_at":"2026-09-15T22:37:00.477246+00:00"}
