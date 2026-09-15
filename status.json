@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSCBuildingShortcuts","position":1715,"catalog_packages":3738,"updated_at":"2026-09-15T22:52:48.343298+00:00"}
+{"state":"failed","package":"KSCBuildingShortcuts","position":1715,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:52:50.247519+00:00"}
