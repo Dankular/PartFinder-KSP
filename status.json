@@ -1,1 +1,1 @@
-{"state":"processing","package":"DockingModuleStageButtonHider","position":748,"catalog_packages":3738,"updated_at":"2026-09-15T22:14:28.223472+00:00"}
+{"state":"failed","package":"DockingModuleStageButtonHider","position":748,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-cpbbq1lb.zip'","updated_at":"2026-09-15T22:14:29.041420+00:00"}
