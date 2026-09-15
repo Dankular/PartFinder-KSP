@@ -1,1 +1,1 @@
-{"state":"processing","package":"ElephantEngine","position":823,"catalog_packages":3738,"updated_at":"2026-09-15T22:16:44.384100+00:00"}
+{"state":"failed","package":"ElephantEngine","position":823,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-asxetr_2.zip'","updated_at":"2026-09-15T22:16:45.129476+00:00"}
