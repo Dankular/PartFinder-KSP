@@ -1,1 +1,1 @@
-{"state":"processing","package":"GreenSkullRevived","position":1082,"catalog_packages":3738,"updated_at":"2026-09-15T22:30:59.461778+00:00"}
+{"state":"failed","package":"GreenSkullRevived","position":1082,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:31:01.743658+00:00"}
