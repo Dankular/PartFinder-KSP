@@ -1,1 +1,1 @@
-{"state":"processing","package":"KiwiTechTree","position":1632,"catalog_packages":3738,"updated_at":"2026-09-15T22:49:16.492368+00:00"}
+{"state":"failed","package":"KiwiTechTree","position":1632,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-yxoe4jy1.zip'","updated_at":"2026-09-15T22:49:17.549550+00:00"}
