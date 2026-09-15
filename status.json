@@ -1,1 +1,1 @@
-{"state":"failed","package":"KSAIVAUpgrade","position":1713,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-atguaxec.zip'","updated_at":"2026-09-15T22:52:45.495959+00:00"}
+{"state":"processing","package":"KScale2","position":1714,"catalog_packages":3738,"updated_at":"2026-09-15T22:52:46.689056+00:00"}
