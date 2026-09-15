@@ -1,1 +1,1 @@
-{"state":"processing","package":"EngineLighting","position":838,"catalog_packages":3738,"updated_at":"2026-09-15T22:17:11.610030+00:00"}
+{"state":"failed","package":"EngineLighting","position":838,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-h6hjb77f.zip'","updated_at":"2026-09-15T22:17:12.405210+00:00"}
