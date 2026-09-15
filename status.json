@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalKomets","position":1467,"catalog_packages":3738,"updated_at":"2026-09-15T22:44:17.975889+00:00"}
+{"state":"failed","package":"KerbalKomets","position":1467,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-hg1aoqqu.zip'","updated_at":"2026-09-15T22:44:18.906789+00:00"}
