@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalAtomics-NTRsUseLF","position":1384,"catalog_packages":3738,"updated_at":"2026-09-15T22:41:50.587675+00:00"}
+{"state":"failed","package":"KerbalAtomics-NTRsUseLF","position":1384,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-e6foaj1u.zip'","updated_at":"2026-09-15T22:41:51.400408+00:00"}
