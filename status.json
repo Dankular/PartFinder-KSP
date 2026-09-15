@@ -1,1 +1,1 @@
-{"state":"processing","package":"GreenStoneIndustryWaterfall","position":1083,"catalog_packages":3738,"updated_at":"2026-09-15T22:31:02.504909+00:00"}
+{"state":"failed","package":"GreenStoneIndustryWaterfall","position":1083,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:31:04.528178+00:00"}
