@@ -1,1 +1,1 @@
-{"state":"processing","package":"IntegratedStackDecouplers","position":1229,"catalog_packages":3738,"updated_at":"2026-09-15T22:37:15.401169+00:00"}
+{"state":"failed","package":"IntegratedStackDecouplers","position":1229,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-t981ty4l.zip'","updated_at":"2026-09-15T22:37:16.228507+00:00"}
