@@ -1,1 +1,1 @@
-{"state":"processing","package":"JoolianDiscovery","position":1293,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:10.895654+00:00"}
+{"state":"failed","package":"JoolianDiscovery","position":1293,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-_nm7i_hz.zip'","updated_at":"2026-09-15T22:39:11.850384+00:00"}
