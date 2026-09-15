@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbolPlusPlus","position":1579,"catalog_packages":3738,"updated_at":"2026-09-15T22:47:38.596579+00:00"}
+{"state":"failed","package":"KerbolPlusPlus","position":1579,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-fzhgj3q3.zip'","updated_at":"2026-09-15T22:47:39.545218+00:00"}
