@@ -1,1 +1,1 @@
-{"state":"processing","package":"HotRockets","position":1172,"catalog_packages":3738,"updated_at":"2026-09-15T22:34:58.159729+00:00"}
+{"state":"failed","package":"HotRockets","position":1172,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:35:06.066477+00:00"}
