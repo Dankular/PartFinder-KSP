@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerboKatzSmallUtilities-ModifiedExplosionPotential","position":1571,"catalog_packages":3738,"updated_at":"2026-09-15T22:47:24.870933+00:00"}
+{"state":"failed","package":"KerboKatzSmallUtilities-ModifiedExplosionPotential","position":1571,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-hyhcrk33.zip'","updated_at":"2026-09-15T22:47:25.683739+00:00"}
