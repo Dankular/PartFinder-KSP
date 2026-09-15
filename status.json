@@ -1,1 +1,1 @@
-{"state":"processing","package":"kOSBFSMultipleArchiveManager","position":1685,"catalog_packages":3738,"updated_at":"2026-09-15T22:51:24.290116+00:00"}
+{"state":"failed","package":"kOSBFSMultipleArchiveManager","position":1685,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-usfdyrjq.zip'","updated_at":"2026-09-15T22:51:25.091938+00:00"}
