@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbVisionIR","position":1589,"catalog_packages":3738,"updated_at":"2026-09-15T22:47:56.518471+00:00"}
+{"state":"failed","package":"KerbVisionIR","position":1589,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-xatk0s4b.zip'","updated_at":"2026-09-15T22:47:57.418645+00:00"}
