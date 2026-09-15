@@ -1,1 +1,1 @@
-{"state":"processing","package":"KIUChineseDeepspaceExplorationPack","position":1624,"catalog_packages":3738,"updated_at":"2026-09-15T22:49:03.006117+00:00"}
+{"state":"failed","package":"KIUChineseDeepspaceExplorationPack","position":1624,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-p1nkrsix.zip'","updated_at":"2026-09-15T22:49:03.890734+00:00"}
