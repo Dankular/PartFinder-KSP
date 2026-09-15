@@ -1,1 +1,1 @@
-{"state":"processing","package":"MissingHistory","position":2021,"catalog_packages":3738,"updated_at":"2026-09-15T23:06:39.523783+00:00"}
+{"state":"failed","package":"MissingHistory","position":2021,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:06:42.073770+00:00"}
