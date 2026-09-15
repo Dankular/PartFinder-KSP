@@ -1,1 +1,1 @@
-{"state":"processing","package":"KramaxAutoPilot","position":1699,"catalog_packages":3738,"updated_at":"2026-09-15T22:52:08.822969+00:00"}
+{"state":"failed","package":"KramaxAutoPilot","position":1699,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-hb489o9m.zip'","updated_at":"2026-09-15T22:52:09.800633+00:00"}
