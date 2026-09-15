@@ -1,1 +1,1 @@
-{"state":"processing","package":"JDiminishingRTG","position":1274,"catalog_packages":3738,"updated_at":"2026-09-15T22:38:35.725069+00:00"}
+{"state":"failed","package":"JDiminishingRTG","position":1274,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-1xhp238a.zip'","updated_at":"2026-09-15T22:38:36.678311+00:00"}
