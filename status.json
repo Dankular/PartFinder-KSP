@@ -1,1 +1,1 @@
-{"state":"processing","package":"MarshallSystem","position":1949,"catalog_packages":3738,"updated_at":"2026-09-15T23:03:07.144030+00:00"}
+{"state":"failed","package":"MarshallSystem","position":1949,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:03:09.415101+00:00"}
