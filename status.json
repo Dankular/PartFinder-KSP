@@ -1,1 +1,1 @@
-{"state":"processing","package":"Dustball","position":793,"catalog_packages":3738,"updated_at":"2026-09-15T22:15:50.072238+00:00"}
+{"state":"failed","package":"Dustball","position":793,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-69opj01i.zip'","updated_at":"2026-09-15T22:15:51.139529+00:00"}
