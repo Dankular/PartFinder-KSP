@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSPTOTConnect","position":1788,"catalog_packages":3738,"updated_at":"2026-09-15T22:56:00.203825+00:00"}
+{"state":"failed","package":"KSPTOTConnect","position":1788,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-_z4oj7zg.zip'","updated_at":"2026-09-15T22:56:01.082490+00:00"}
