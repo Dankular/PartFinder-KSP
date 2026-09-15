@@ -1,1 +1,1 @@
-{"state":"failed","package":"KSRSS-Secondary","position":1793,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-kvdtt6m_.zip'","updated_at":"2026-09-15T22:56:14.047104+00:00"}
+{"state":"processing","package":"KSTS","position":1794,"catalog_packages":3738,"updated_at":"2026-09-15T22:56:15.716794+00:00"}
