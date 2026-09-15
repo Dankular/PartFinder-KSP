@@ -1,1 +1,1 @@
-{"state":"processing","package":"K2CommandPod","position":1309,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:38.960132+00:00"}
+{"state":"failed","package":"K2CommandPod","position":1309,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-u5aacxme.zip'","updated_at":"2026-09-15T22:39:39.764702+00:00"}
