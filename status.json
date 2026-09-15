@@ -1,1 +1,1 @@
-{"state":"processing","package":"BAM","position":252,"catalog_packages":3738,"updated_at":"2026-09-15T21:48:06.359120+00:00"}
+{"state":"failed","package":"BAM","position":252,"catalog_packages":3738,"error":"<urlopen error [Errno -2] Name or service not known>","updated_at":"2026-09-15T21:48:07.539326+00:00"}
