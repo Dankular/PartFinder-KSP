@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalGalaxyRevamped","position":1423,"catalog_packages":3738,"updated_at":"2026-09-15T22:42:58.511220+00:00"}
+{"state":"failed","package":"KerbalGalaxyRevamped","position":1423,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-rc9o9698.zip'","updated_at":"2026-09-15T22:42:59.327841+00:00"}
