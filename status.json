@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalLifeScience","position":1477,"catalog_packages":3738,"updated_at":"2026-09-15T22:44:36.548063+00:00"}
+{"state":"failed","package":"KerbalLifeScience","position":1477,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-lb_cxqa7.zip'","updated_at":"2026-09-15T22:44:37.585459+00:00"}
