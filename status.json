@@ -1,1 +1,1 @@
-{"state":"processing","package":"InterstellarRedistributable","position":1242,"catalog_packages":3738,"updated_at":"2026-09-15T22:37:40.562524+00:00"}
+{"state":"failed","package":"InterstellarRedistributable","position":1242,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-tpnjbp_0.zip'","updated_at":"2026-09-15T22:37:41.405952+00:00"}
