@@ -1,1 +1,1 @@
-{"state":"processing","package":"IR-Model-Rework-Core","position":1250,"catalog_packages":3738,"updated_at":"2026-09-15T22:37:54.246348+00:00"}
+{"state":"failed","package":"IR-Model-Rework-Core","position":1250,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-tgljwntt.zip'","updated_at":"2026-09-15T22:37:55.205269+00:00"}
