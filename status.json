@@ -1,1 +1,1 @@
-{"state":"processing","package":"MidweeksOriginsTUFXConfig","position":1986,"catalog_packages":3738,"updated_at":"2026-09-15T23:04:43.587998+00:00"}
+{"state":"failed","package":"MidweeksOriginsTUFXConfig","position":1986,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-enlxew4r.zip'","updated_at":"2026-09-15T23:04:44.602211+00:00"}
