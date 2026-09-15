@@ -1,1 +1,1 @@
-{"state":"processing","package":"JX2Antenna","position":1307,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:35.573378+00:00"}
+{"state":"failed","package":"JX2Antenna","position":1307,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-kittone0.zip'","updated_at":"2026-09-15T22:39:36.467252+00:00"}
