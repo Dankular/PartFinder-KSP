@@ -1,1 +1,1 @@
-{"state":"processing","package":"InfernalRobotics-LegacyParts","position":1212,"catalog_packages":3738,"updated_at":"2026-09-15T22:36:45.157602+00:00"}
+{"state":"failed","package":"InfernalRobotics-LegacyParts","position":1212,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-nw0iti4b.zip'","updated_at":"2026-09-15T22:36:46.093420+00:00"}
