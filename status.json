@@ -1,1 +1,1 @@
-{"state":"processing","package":"kOSforAll","position":1686,"catalog_packages":3738,"updated_at":"2026-09-15T22:51:25.882038+00:00"}
+{"state":"failed","package":"kOSforAll","position":1686,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-6cospsiq.zip'","updated_at":"2026-09-15T22:51:26.631187+00:00"}
