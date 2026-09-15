@@ -1,1 +1,1 @@
-{"state":"processing","package":"LudicrousPropulsionSystems","position":1908,"catalog_packages":3738,"updated_at":"2026-09-15T23:01:18.439571+00:00"}
+{"state":"failed","package":"LudicrousPropulsionSystems","position":1908,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-s_2ndnr8.zip'","updated_at":"2026-09-15T23:01:19.778667+00:00"}
