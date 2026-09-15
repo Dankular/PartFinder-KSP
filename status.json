@@ -1,1 +1,1 @@
-{"state":"processing","package":"KARE","position":1344,"catalog_packages":3738,"updated_at":"2026-09-15T22:40:42.025981+00:00"}
+{"state":"failed","package":"KARE","position":1344,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-sqclsg3v.zip'","updated_at":"2026-09-15T22:40:42.926774+00:00"}
