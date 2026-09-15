@@ -1,1 +1,1 @@
-{"state":"processing","package":"LandingAIM","position":1826,"catalog_packages":3738,"updated_at":"2026-09-15T22:57:47.276782+00:00"}
+{"state":"failed","package":"LandingAIM","position":1826,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-nkpikd51.zip'","updated_at":"2026-09-15T22:57:48.109698+00:00"}
