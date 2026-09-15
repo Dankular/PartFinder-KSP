@@ -1,1 +1,1 @@
-{"state":"processing","package":"CustomBiomes-Data-Stock","position":646,"catalog_packages":3738,"updated_at":"2026-09-15T22:11:17.569118+00:00"}
+{"state":"failed","package":"CustomBiomes-Data-Stock","position":646,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-n6azjhd7.zip'","updated_at":"2026-09-15T22:11:18.585683+00:00"}
