@@ -1,1 +1,1 @@
-{"state":"processing","package":"LAZR","position":1848,"catalog_packages":3738,"updated_at":"2026-09-15T22:58:46.075265+00:00"}
+{"state":"failed","package":"LAZR","position":1848,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-bx3h6cd9.zip'","updated_at":"2026-09-15T22:58:47.087593+00:00"}
