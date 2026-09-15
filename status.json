@@ -1,1 +1,1 @@
-{"state":"processing","package":"Hadean","position":1106,"catalog_packages":3738,"updated_at":"2026-09-15T22:32:04.421465+00:00"}
+{"state":"failed","package":"Hadean","position":1106,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:32:07.249388+00:00"}
