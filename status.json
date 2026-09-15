@@ -1,1 +1,1 @@
-{"state":"processing","package":"MirrorShields","position":2017,"catalog_packages":3738,"updated_at":"2026-09-15T23:06:29.903199+00:00"}
+{"state":"failed","package":"MirrorShields","position":2017,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-u65xz9wc.zip'","updated_at":"2026-09-15T23:06:30.749924+00:00"}
