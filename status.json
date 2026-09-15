@@ -1,1 +1,1 @@
-{"state":"processing","package":"IndicatorLightsCommunityExtensions","position":1210,"catalog_packages":3738,"updated_at":"2026-09-15T22:36:41.691348+00:00"}
+{"state":"failed","package":"IndicatorLightsCommunityExtensions","position":1210,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-51tciy75.zip'","updated_at":"2026-09-15T22:36:42.628355+00:00"}
