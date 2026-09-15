@@ -1,1 +1,1 @@
-{"state":"processing","package":"MastodonPatch","position":1955,"catalog_packages":3738,"updated_at":"2026-09-15T23:03:22.816241+00:00"}
+{"state":"failed","package":"MastodonPatch","position":1955,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-tu8x_vu5.zip'","updated_at":"2026-09-15T23:03:23.769956+00:00"}
