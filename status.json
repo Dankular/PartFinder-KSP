@@ -1,1 +1,1 @@
-{"state":"processing","package":"ExtraPlanetaryLaunchpads","position":913,"catalog_packages":3738,"updated_at":"2026-09-15T22:21:42.215415+00:00"}
+{"state":"failed","package":"ExtraPlanetaryLaunchpads","position":913,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:21:44.759823+00:00"}
