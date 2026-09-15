@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerboKatzUtilities","position":1574,"catalog_packages":3738,"updated_at":"2026-09-15T22:47:29.880262+00:00"}
+{"state":"failed","package":"KerboKatzUtilities","position":1574,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-i11ze9p0.zip'","updated_at":"2026-09-15T22:47:30.896158+00:00"}
