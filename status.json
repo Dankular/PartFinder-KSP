@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalPowersNaval","position":1498,"catalog_packages":3738,"updated_at":"2026-09-15T22:45:13.403399+00:00"}
+{"state":"failed","package":"KerbalPowersNaval","position":1498,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-95kyyvd6.zip'","updated_at":"2026-09-15T22:45:14.185976+00:00"}
