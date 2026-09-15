@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSPCasher","position":1753,"catalog_packages":3738,"updated_at":"2026-09-15T22:54:29.494439+00:00"}
+{"state":"failed","package":"KSPCasher","position":1753,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:54:31.133000+00:00"}
