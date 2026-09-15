@@ -1,1 +1,1 @@
-{"state":"processing","package":"KopernicusExpansionContinueder","position":1666,"catalog_packages":3738,"updated_at":"2026-09-15T22:50:27.337467+00:00"}
+{"state":"failed","package":"KopernicusExpansionContinueder","position":1666,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:50:28.722763+00:00"}
