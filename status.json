@@ -1,1 +1,1 @@
-{"state":"processing","package":"DistantWorldsCore","position":734,"catalog_packages":3738,"updated_at":"2026-09-15T22:14:01.709239+00:00"}
+{"state":"failed","package":"DistantWorldsCore","position":734,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-4qr7npzt.zip'","updated_at":"2026-09-15T22:14:02.470550+00:00"}
