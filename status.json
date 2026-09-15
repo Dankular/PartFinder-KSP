@@ -1,1 +1,1 @@
-{"state":"processing","package":"CustomCategories","position":648,"catalog_packages":3738,"updated_at":"2026-09-15T22:11:21.470959+00:00"}
+{"state":"failed","package":"CustomCategories","position":648,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-_9_bi4if.zip'","updated_at":"2026-09-15T22:11:22.457045+00:00"}
