@@ -1,1 +1,1 @@
-{"state":"processing","package":"JNSQ","position":1282,"catalog_packages":3738,"updated_at":"2026-09-15T22:38:50.311268+00:00"}
+{"state":"failed","package":"JNSQ","position":1282,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-8s0xf5tv.zip'","updated_at":"2026-09-15T22:38:51.199908+00:00"}
