@@ -1,1 +1,1 @@
-{"state":"processing","package":"KabramsSunFlaresPack-Red-Medium","position":1329,"catalog_packages":3738,"updated_at":"2026-09-15T22:40:14.676422+00:00"}
+{"state":"failed","package":"KabramsSunFlaresPack-Red-Medium","position":1329,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-lq02wy__.zip'","updated_at":"2026-09-15T22:40:15.562580+00:00"}
