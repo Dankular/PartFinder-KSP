@@ -1,1 +1,1 @@
-{"state":"processing","package":"CustomAsteroids-Pops-OPM-Reconfig","position":638,"catalog_packages":3738,"updated_at":"2026-09-15T22:11:02.309948+00:00"}
+{"state":"failed","package":"CustomAsteroids-Pops-OPM-Reconfig","position":638,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ix6gdqfz.zip'","updated_at":"2026-09-15T22:11:03.373422+00:00"}
