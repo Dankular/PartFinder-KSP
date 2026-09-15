@@ -1,1 +1,1 @@
-{"state":"processing","package":"LargeBoatPartsPack","position":1830,"catalog_packages":3738,"updated_at":"2026-09-15T22:57:57.437022+00:00"}
+{"state":"failed","package":"LargeBoatPartsPack","position":1830,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-t7hdnofh.zip'","updated_at":"2026-09-15T22:57:58.454556+00:00"}
