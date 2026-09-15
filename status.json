@@ -1,1 +1,1 @@
-{"state":"processing","package":"KcalbelohSystem","position":1355,"catalog_packages":3738,"updated_at":"2026-09-15T22:41:00.773270+00:00"}
+{"state":"failed","package":"KcalbelohSystem","position":1355,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-vm7ln1pm.zip'","updated_at":"2026-09-15T22:41:01.654310+00:00"}
