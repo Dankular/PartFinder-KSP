@@ -1,1 +1,1 @@
-{"state":"processing","package":"ElectricThrustEngineETE","position":821,"catalog_packages":3738,"updated_at":"2026-09-15T22:16:41.168896+00:00"}
+{"state":"failed","package":"ElectricThrustEngineETE","position":821,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-yamas6of.zip'","updated_at":"2026-09-15T22:16:41.992213+00:00"}
