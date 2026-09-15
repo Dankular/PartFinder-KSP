@@ -1,1 +1,1 @@
-{"state":"processing","package":"MedievalWeapons","position":1965,"catalog_packages":3738,"updated_at":"2026-09-15T23:03:50.360356+00:00"}
+{"state":"failed","package":"MedievalWeapons","position":1965,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-m55_v5so.zip'","updated_at":"2026-09-15T23:03:51.297111+00:00"}
