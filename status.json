@@ -1,1 +1,1 @@
-{"state":"processing","package":"CursorDeleter","position":635,"catalog_packages":3738,"updated_at":"2026-09-15T22:10:57.384282+00:00"}
+{"state":"failed","package":"CursorDeleter","position":635,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-gnlftwc9.zip'","updated_at":"2026-09-15T22:10:58.208463+00:00"}
