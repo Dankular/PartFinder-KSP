@@ -1,1 +1,1 @@
-{"state":"processing","package":"EVAEnhancements","position":873,"catalog_packages":3738,"updated_at":"2026-09-15T22:19:26.131420+00:00"}
+{"state":"failed","package":"EVAEnhancements","position":873,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:19:31.764826+00:00"}
