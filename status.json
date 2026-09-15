@@ -1,1 +1,1 @@
-{"state":"processing","package":"HindMI24andMI17partspack","position":1157,"catalog_packages":3738,"updated_at":"2026-09-15T22:34:25.531827+00:00"}
+{"state":"failed","package":"HindMI24andMI17partspack","position":1157,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:34:27.961513+00:00"}
