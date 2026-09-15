@@ -1,1 +1,1 @@
-{"state":"processing","package":"imkSushisModdedChallenges","position":1198,"catalog_packages":3738,"updated_at":"2026-09-15T22:36:16.510169+00:00"}
+{"state":"failed","package":"imkSushisModdedChallenges","position":1198,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:36:18.208424+00:00"}
