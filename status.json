@@ -1,1 +1,1 @@
-{"state":"processing","package":"LinbolSystemRebirth","position":1879,"catalog_packages":3738,"updated_at":"2026-09-15T22:59:58.383398+00:00"}
+{"state":"failed","package":"LinbolSystemRebirth","position":1879,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-0ed1zk_2.zip'","updated_at":"2026-09-15T22:59:59.643241+00:00"}
