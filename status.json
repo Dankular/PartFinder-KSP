@@ -1,1 +1,1 @@
-{"state":"processing","package":"KeridianDynamicsVesselAssembly","position":1592,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:02.127838+00:00"}
+{"state":"failed","package":"KeridianDynamicsVesselAssembly","position":1592,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-dwch__ea.zip'","updated_at":"2026-09-15T22:48:02.955008+00:00"}
