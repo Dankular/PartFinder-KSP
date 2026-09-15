@@ -1,1 +1,1 @@
-{"state":"processing","package":"EuropeanSpaceAgencyRocketKit","position":871,"catalog_packages":3738,"updated_at":"2026-09-15T22:19:19.520156+00:00"}
+{"state":"failed","package":"EuropeanSpaceAgencyRocketKit","position":871,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:19:22.421254+00:00"}
