@@ -1,1 +1,1 @@
-{"state":"processing","package":"DoubleIt","position":763,"catalog_packages":3738,"updated_at":"2026-09-15T22:14:54.742429+00:00"}
+{"state":"failed","package":"DoubleIt","position":763,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ckquo1uj.zip'","updated_at":"2026-09-15T22:14:55.720181+00:00"}
