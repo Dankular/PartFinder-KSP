@@ -1,1 +1,1 @@
-{"state":"processing","package":"MiniAirbrakes","position":1998,"catalog_packages":3738,"updated_at":"2026-09-15T23:05:29.230495+00:00"}
+{"state":"failed","package":"MiniAirbrakes","position":1998,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:05:35.161091+00:00"}
