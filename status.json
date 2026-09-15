@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerboKatzSmallUtilities-KerbalScienceExchange","position":1570,"catalog_packages":3738,"updated_at":"2026-09-15T22:47:23.193181+00:00"}
+{"state":"failed","package":"KerboKatzSmallUtilities-KerbalScienceExchange","position":1570,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-6zau0d8n.zip'","updated_at":"2026-09-15T22:47:24.069002+00:00"}
