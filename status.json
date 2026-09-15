@@ -1,1 +1,1 @@
-{"state":"processing","package":"kdufferskorpracewheel","position":1362,"catalog_packages":3738,"updated_at":"2026-09-15T22:41:13.006921+00:00"}
+{"state":"failed","package":"kdufferskorpracewheel","position":1362,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-jefgzwli.zip'","updated_at":"2026-09-15T22:41:13.864430+00:00"}
