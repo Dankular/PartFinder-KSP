@@ -1,1 +1,1 @@
-{"state":"processing","package":"ClassicStockResources-PlayMode-ClassicStock","position":471,"catalog_packages":3738,"updated_at":"2026-09-15T22:03:07.221994+00:00"}
+{"state":"failed","package":"ClassicStockResources-PlayMode-ClassicStock","position":471,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:03:08.948036+00:00"}
