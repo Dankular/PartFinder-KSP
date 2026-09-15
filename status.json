@@ -1,1 +1,1 @@
-{"state":"processing","package":"FFTSmelterNukeProduction","position":952,"catalog_packages":3738,"updated_at":"2026-09-15T22:24:09.813445+00:00"}
+{"state":"failed","package":"FFTSmelterNukeProduction","position":952,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:24:11.514147+00:00"}
