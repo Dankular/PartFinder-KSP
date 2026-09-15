@@ -1,1 +1,1 @@
-{"state":"processing","package":"DraggableControls","position":767,"catalog_packages":3738,"updated_at":"2026-09-15T22:15:01.852806+00:00"}
+{"state":"failed","package":"DraggableControls","position":767,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-0j0zwill.zip'","updated_at":"2026-09-15T22:15:02.667267+00:00"}
