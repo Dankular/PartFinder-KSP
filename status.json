@@ -1,1 +1,1 @@
-{"state":"processing","package":"CryoEngines-SurfaceAttach","position":628,"catalog_packages":3738,"updated_at":"2026-09-15T22:10:42.323450+00:00"}
+{"state":"failed","package":"CryoEngines-SurfaceAttach","position":628,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-yochunm8.zip'","updated_at":"2026-09-15T22:10:43.259225+00:00"}
