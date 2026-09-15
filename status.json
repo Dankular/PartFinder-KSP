@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSPTextureLoader","position":1786,"catalog_packages":3738,"updated_at":"2026-09-15T22:55:48.880682+00:00"}
+{"state":"failed","package":"KSPTextureLoader","position":1786,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-7_2j94t0.zip'","updated_at":"2026-09-15T22:55:49.954604+00:00"}
