@@ -1,1 +1,1 @@
-{"state":"processing","package":"LessRealKerbalism","position":1866,"catalog_packages":3738,"updated_at":"2026-09-15T22:59:26.260296+00:00"}
+{"state":"failed","package":"LessRealKerbalism","position":1866,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:59:28.111058+00:00"}
