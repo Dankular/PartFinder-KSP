@@ -1,1 +1,1 @@
-{"state":"processing","package":"DockingSounds","position":753,"catalog_packages":3738,"updated_at":"2026-09-15T22:14:37.551088+00:00"}
+{"state":"failed","package":"DockingSounds","position":753,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-zuug66pc.zip'","updated_at":"2026-09-15T22:14:38.477666+00:00"}
