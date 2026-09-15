@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSCSupportStaff","position":1723,"catalog_packages":3738,"updated_at":"2026-09-15T22:53:07.581424+00:00"}
+{"state":"failed","package":"KSCSupportStaff","position":1723,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:53:10.611115+00:00"}
