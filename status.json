@@ -1,1 +1,1 @@
-{"state":"processing","package":"LargeStructuralComponentsRedux","position":1834,"catalog_packages":3738,"updated_at":"2026-09-15T22:58:08.875794+00:00"}
+{"state":"failed","package":"LargeStructuralComponentsRedux","position":1834,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-bes0wcpy.zip'","updated_at":"2026-09-15T22:58:10.227302+00:00"}
