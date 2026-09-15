@@ -1,1 +1,1 @@
-{"state":"processing","package":"MemorialWall","position":1969,"catalog_packages":3738,"updated_at":"2026-09-15T23:04:00.378342+00:00"}
+{"state":"failed","package":"MemorialWall","position":1969,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:04:01.826190+00:00"}
