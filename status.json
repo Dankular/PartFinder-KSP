@@ -1,1 +1,1 @@
-{"state":"processing","package":"HUDReplacer","position":1178,"catalog_packages":3738,"updated_at":"2026-09-15T22:35:21.976856+00:00"}
+{"state":"failed","package":"HUDReplacer","position":1178,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:35:23.832846+00:00"}
