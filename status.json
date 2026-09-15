@@ -1,1 +1,1 @@
-{"state":"processing","package":"LaunchPad39B","position":1840,"catalog_packages":3738,"updated_at":"2026-09-15T22:58:25.163174+00:00"}
+{"state":"failed","package":"LaunchPad39B","position":1840,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-k6oa9a40.zip'","updated_at":"2026-09-15T22:58:26.046081+00:00"}
