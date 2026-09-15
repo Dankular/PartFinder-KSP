@@ -1,1 +1,1 @@
-{"state":"processing","package":"Fusebox","position":1024,"catalog_packages":3738,"updated_at":"2026-09-15T22:28:20.695211+00:00"}
+{"state":"failed","package":"Fusebox","position":1024,"catalog_packages":3738,"error":"HTTP Error 403: Forbidden","updated_at":"2026-09-15T22:28:22.891865+00:00"}
