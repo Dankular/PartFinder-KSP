@@ -1,1 +1,1 @@
-{"state":"processing","package":"KHsBetterMun","position":1608,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:29.981636+00:00"}
+{"state":"failed","package":"KHsBetterMun","position":1608,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-_1knsb6d.zip'","updated_at":"2026-09-15T22:48:31.321460+00:00"}
