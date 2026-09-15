@@ -1,1 +1,1 @@
-{"state":"processing","package":"EditorRealSkyview","position":813,"catalog_packages":3738,"updated_at":"2026-09-15T22:16:26.769131+00:00"}
+{"state":"failed","package":"EditorRealSkyview","position":813,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-0i3b9vki.zip'","updated_at":"2026-09-15T22:16:27.565675+00:00"}
