@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalNRAP","position":1486,"catalog_packages":3738,"updated_at":"2026-09-15T22:44:52.019055+00:00"}
+{"state":"failed","package":"KerbalNRAP","position":1486,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-3k8u60_m.zip'","updated_at":"2026-09-15T22:44:52.987422+00:00"}
