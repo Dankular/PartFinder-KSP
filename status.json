@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalAtomics","position":1381,"catalog_packages":3738,"updated_at":"2026-09-15T22:41:45.185348+00:00"}
+{"state":"failed","package":"KerbalAtomics","position":1381,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-n67hgqfs.zip'","updated_at":"2026-09-15T22:41:46.229161+00:00"}
