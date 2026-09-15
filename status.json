@@ -1,1 +1,1 @@
-{"state":"processing","package":"ExponentialTechTreeScaling","position":905,"catalog_packages":3738,"updated_at":"2026-09-15T22:21:17.878538+00:00"}
+{"state":"failed","package":"ExponentialTechTreeScaling","position":905,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:21:19.822959+00:00"}
