@@ -1,1 +1,1 @@
-{"state":"processing","package":"MinimalisticNationalFlags","position":1999,"catalog_packages":3738,"updated_at":"2026-09-15T23:05:35.970363+00:00"}
+{"state":"failed","package":"MinimalisticNationalFlags","position":1999,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-0b3j9q09.zip'","updated_at":"2026-09-15T23:05:36.962366+00:00"}
