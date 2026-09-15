@@ -1,1 +1,1 @@
-{"state":"processing","package":"DangItContinued","position":669,"catalog_packages":3738,"updated_at":"2026-09-15T22:12:01.264871+00:00"}
+{"state":"failed","package":"DangItContinued","position":669,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-kziuzjef.zip'","updated_at":"2026-09-15T22:12:02.269771+00:00"}
