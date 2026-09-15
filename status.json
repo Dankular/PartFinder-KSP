@@ -1,1 +1,1 @@
-{"state":"processing","package":"KirovAirShip","position":1618,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:48.564212+00:00"}
+{"state":"failed","package":"KirovAirShip","position":1618,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-7wtlt7fz.zip'","updated_at":"2026-09-15T22:48:49.366766+00:00"}
