@@ -1,1 +1,1 @@
-{"state":"processing","package":"MaerdaCorpPack","position":1921,"catalog_packages":3738,"updated_at":"2026-09-15T23:01:49.539940+00:00"}
+{"state":"failed","package":"MaerdaCorpPack","position":1921,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-nl8h62ax.zip'","updated_at":"2026-09-15T23:01:50.780408+00:00"}
