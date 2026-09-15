@@ -1,1 +1,1 @@
-{"state":"processing","package":"HyperEdit","position":1186,"catalog_packages":3738,"updated_at":"2026-09-15T22:35:53.473354+00:00"}
+{"state":"failed","package":"HyperEdit","position":1186,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-uykyotu8.zip'","updated_at":"2026-09-15T22:35:54.259195+00:00"}
