@@ -1,1 +1,1 @@
-{"state":"processing","package":"kal9000","position":1336,"catalog_packages":3738,"updated_at":"2026-09-15T22:40:27.359151+00:00"}
+{"state":"failed","package":"kal9000","position":1336,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-2m3kxlyg.zip'","updated_at":"2026-09-15T22:40:28.300224+00:00"}
