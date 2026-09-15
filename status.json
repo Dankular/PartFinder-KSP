@@ -1,1 +1,1 @@
-{"state":"processing","package":"LargeBoatPartsPack-Modern","position":1831,"catalog_packages":3738,"updated_at":"2026-09-15T22:57:59.334112+00:00"}
+{"state":"failed","package":"LargeBoatPartsPack-Modern","position":1831,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-omrt6xaw.zip'","updated_at":"2026-09-15T22:58:00.596824+00:00"}
