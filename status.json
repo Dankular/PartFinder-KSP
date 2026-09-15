@@ -1,1 +1,1 @@
-{"state":"processing","package":"GPPCloudsLowRes","position":1061,"catalog_packages":3738,"updated_at":"2026-09-15T22:30:06.711941+00:00"}
+{"state":"failed","package":"GPPCloudsLowRes","position":1061,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:30:08.254842+00:00"}
