@@ -1,1 +1,1 @@
-{"state":"processing","package":"DiazosLandingHeight","position":721,"catalog_packages":3738,"updated_at":"2026-09-15T22:13:36.806686+00:00"}
+{"state":"failed","package":"DiazosLandingHeight","position":721,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-qk81lupa.zip'","updated_at":"2026-09-15T22:13:37.955136+00:00"}
