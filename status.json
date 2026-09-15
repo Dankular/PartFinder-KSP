@@ -1,1 +1,1 @@
-{"state":"processing","package":"DenTech","position":708,"catalog_packages":3738,"updated_at":"2026-09-15T22:13:12.142007+00:00"}
+{"state":"failed","package":"DenTech","position":708,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-jl6c8rzm.zip'","updated_at":"2026-09-15T22:13:13.458849+00:00"}
