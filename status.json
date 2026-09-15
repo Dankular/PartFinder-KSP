@@ -1,1 +1,1 @@
-{"state":"processing","package":"EeloosBlueMoon","position":816,"catalog_packages":3738,"updated_at":"2026-09-15T22:16:32.508783+00:00"}
+{"state":"failed","package":"EeloosBlueMoon","position":816,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ucrthohi.zip'","updated_at":"2026-09-15T22:16:33.325455+00:00"}
