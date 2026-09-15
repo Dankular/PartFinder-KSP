@@ -1,1 +1,1 @@
-{"state":"processing","package":"KICKLifeSupport","position":1610,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:33.910674+00:00"}
+{"state":"failed","package":"KICKLifeSupport","position":1610,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-20xvknff.zip'","updated_at":"2026-09-15T22:48:35.113537+00:00"}
