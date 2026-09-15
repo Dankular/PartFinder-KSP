@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbinSideGroundControl","position":1546,"catalog_packages":3738,"updated_at":"2026-09-15T22:46:40.802979+00:00"}
+{"state":"failed","package":"KerbinSideGroundControl","position":1546,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-oap0ft9_.zip'","updated_at":"2026-09-15T22:46:41.704670+00:00"}
