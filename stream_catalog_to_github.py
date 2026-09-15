@@ -64,7 +64,8 @@ def current_packages(blob: bytes) -> list[dict]:
 
 def archive_url(package: dict) -> str:
     value = package["download"]
-    return value[0] if isinstance(value, list) else value
+    url = value[0] if isinstance(value, list) else value
+    return url.replace(" ", "%20")
 
 
 def inspect_package(package: dict) -> list[str]:
@@ -162,7 +163,7 @@ def main() -> int:
                      "manifest.json": json.dumps(manifest, separators=(",", ":"))}
             head = commit(args.repo, token, head, files, f"Index {identifier}")
             print(f"[{number}/{len(selected)}] committed {identifier} ({len(package_parts)} parts)", flush=True)
-        except (OSError, urllib.error.URLError, zipfile.BadZipFile, KeyError, RuntimeError) as exc:
+        except (OSError, urllib.error.URLError, zipfile.BadZipFile, KeyError, RuntimeError, ValueError) as exc:
             print(f"[{number}/{len(selected)}] failed {identifier}: {exc}", flush=True)
     return 0
 
