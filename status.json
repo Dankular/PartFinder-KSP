@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbinArcticTreatyOrganizationFlags","position":1533,"catalog_packages":3738,"updated_at":"2026-09-15T22:46:16.752426+00:00"}
+{"state":"failed","package":"KerbinArcticTreatyOrganizationFlags","position":1533,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-621cauaw.zip'","updated_at":"2026-09-15T22:46:17.607071+00:00"}
