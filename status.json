@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbinElectric","position":1536,"catalog_packages":3738,"updated_at":"2026-09-15T22:46:22.566234+00:00"}
+{"state":"failed","package":"KerbinElectric","position":1536,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-8qc48evt.zip'","updated_at":"2026-09-15T22:46:23.577242+00:00"}
