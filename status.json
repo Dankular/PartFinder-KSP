@@ -1,1 +1,1 @@
-{"state":"processing","package":"GerryAndersonsSpace1999Pack","position":1046,"catalog_packages":3738,"updated_at":"2026-09-15T22:29:29.675478+00:00"}
+{"state":"failed","package":"GerryAndersonsSpace1999Pack","position":1046,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-229w25q0.zip'","updated_at":"2026-09-15T22:29:30.722779+00:00"}
