@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalPublicRadioServiceKPRS","position":1500,"catalog_packages":3738,"updated_at":"2026-09-15T22:45:16.978941+00:00"}
+{"state":"failed","package":"KerbalPublicRadioServiceKPRS","position":1500,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-vicn911k.zip'","updated_at":"2026-09-15T22:45:17.758482+00:00"}
