@@ -1,1 +1,1 @@
-{"state":"processing","package":"InterKalactic2","position":1234,"catalog_packages":3738,"updated_at":"2026-09-15T22:37:24.846800+00:00"}
+{"state":"failed","package":"InterKalactic2","position":1234,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-i696br2k.zip'","updated_at":"2026-09-15T22:37:26.012723+00:00"}
