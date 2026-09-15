@@ -1,1 +1,1 @@
-{"state":"processing","package":"JsonKerman","position":1302,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:26.516929+00:00"}
+{"state":"failed","package":"JsonKerman","position":1302,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-saterhz7.zip'","updated_at":"2026-09-15T22:39:27.347426+00:00"}
