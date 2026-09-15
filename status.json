@@ -1,1 +1,1 @@
-{"state":"processing","package":"MirrotistSystem","position":2019,"catalog_packages":3738,"updated_at":"2026-09-15T23:06:33.504597+00:00"}
+{"state":"failed","package":"MirrotistSystem","position":2019,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-q7ijquqa.zip'","updated_at":"2026-09-15T23:06:34.329989+00:00"}
