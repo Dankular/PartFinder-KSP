@@ -1,1 +1,1 @@
-{"state":"processing","package":"KWSKerbalWeaponsSystem","position":1814,"catalog_packages":3738,"updated_at":"2026-09-15T22:57:15.499599+00:00"}
+{"state":"failed","package":"KWSKerbalWeaponsSystem","position":1814,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-fd87ddxx.zip'","updated_at":"2026-09-15T22:57:16.307765+00:00"}
