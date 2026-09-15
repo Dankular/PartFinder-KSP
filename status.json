@@ -1,1 +1,1 @@
-{"state":"processing","package":"IR-ConnectionSystem","position":1248,"catalog_packages":3738,"updated_at":"2026-09-15T22:37:51.056502+00:00"}
+{"state":"failed","package":"IR-ConnectionSystem","position":1248,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-rz9jyuz5.zip'","updated_at":"2026-09-15T22:37:51.861763+00:00"}
