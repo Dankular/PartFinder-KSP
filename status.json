@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerboKatzSmallUtilities-RecoverAll","position":1573,"catalog_packages":3738,"updated_at":"2026-09-15T22:47:28.238885+00:00"}
+{"state":"failed","package":"KerboKatzSmallUtilities-RecoverAll","position":1573,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-6mlzls_b.zip'","updated_at":"2026-09-15T22:47:29.071882+00:00"}
