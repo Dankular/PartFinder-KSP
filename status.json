@@ -1,1 +1,1 @@
-{"state":"processing","package":"HeathAndHemith","position":1137,"catalog_packages":3738,"updated_at":"2026-09-15T22:33:23.486166+00:00"}
+{"state":"failed","package":"HeathAndHemith","position":1137,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:33:25.838506+00:00"}
