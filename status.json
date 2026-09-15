@@ -1,1 +1,1 @@
-{"state":"processing","package":"DockingFunctions","position":747,"catalog_packages":3738,"updated_at":"2026-09-15T22:14:26.540215+00:00"}
+{"state":"failed","package":"DockingFunctions","position":747,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-qwbiept4.zip'","updated_at":"2026-09-15T22:14:27.338832+00:00"}
