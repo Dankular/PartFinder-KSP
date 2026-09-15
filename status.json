@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSPStoreForward","position":1785,"catalog_packages":3738,"updated_at":"2026-09-15T22:55:46.464485+00:00"}
+{"state":"failed","package":"KSPStoreForward","position":1785,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:55:48.093516+00:00"}
