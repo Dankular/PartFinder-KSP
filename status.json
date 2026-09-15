@@ -1,1 +1,1 @@
-{"state":"processing","package":"DunaSpaceProgram","position":790,"catalog_packages":3738,"updated_at":"2026-09-15T22:15:44.895544+00:00"}
+{"state":"failed","package":"DunaSpaceProgram","position":790,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-2u4saxab.zip'","updated_at":"2026-09-15T22:15:45.779418+00:00"}
