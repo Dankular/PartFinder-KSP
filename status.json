@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalismNFEFRpatch","position":1451,"catalog_packages":3738,"updated_at":"2026-09-15T22:43:48.719881+00:00"}
+{"state":"failed","package":"KerbalismNFEFRpatch","position":1451,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-bng8i19t.zip'","updated_at":"2026-09-15T22:43:49.599815+00:00"}
