@@ -1,1 +1,1 @@
-{"state":"processing","package":"Labradoodle","position":1817,"catalog_packages":3738,"updated_at":"2026-09-15T22:57:22.744309+00:00"}
+{"state":"failed","package":"Labradoodle","position":1817,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-4xvwomq1.zip'","updated_at":"2026-09-15T22:57:23.533477+00:00"}
