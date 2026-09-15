@@ -1,1 +1,1 @@
-{"state":"processing","package":"EditorExtensionsRedux","position":811,"catalog_packages":3738,"updated_at":"2026-09-15T22:16:22.907242+00:00"}
+{"state":"failed","package":"EditorExtensionsRedux","position":811,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-fsoujh1l.zip'","updated_at":"2026-09-15T22:16:23.770480+00:00"}
