@@ -1,1 +1,1 @@
-{"state":"processing","package":"KERRendezvousTools","position":1594,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:05.642560+00:00"}
+{"state":"failed","package":"KERRendezvousTools","position":1594,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-qq_r3vc6.zip'","updated_at":"2026-09-15T22:48:06.459444+00:00"}
