@@ -1,1 +1,1 @@
-{"state":"processing","package":"CriticalTemperatureGauge","position":620,"catalog_packages":3738,"updated_at":"2026-09-15T22:10:26.618419+00:00"}
+{"state":"failed","package":"CriticalTemperatureGauge","position":620,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:10:28.247955+00:00"}
