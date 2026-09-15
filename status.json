@@ -1,1 +1,1 @@
-{"state":"processing","package":"FuelTanksPlus","position":1016,"catalog_packages":3738,"updated_at":"2026-09-15T22:27:50.436390+00:00"}
+{"state":"failed","package":"FuelTanksPlus","position":1016,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:27:52.179405+00:00"}
