@@ -1,1 +1,1 @@
-{"state":"processing","package":"DockingCamKURS","position":746,"catalog_packages":3738,"updated_at":"2026-09-15T22:14:24.849069+00:00"}
+{"state":"failed","package":"DockingCamKURS","position":746,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-_q9zjcp1.zip'","updated_at":"2026-09-15T22:14:25.711424+00:00"}
