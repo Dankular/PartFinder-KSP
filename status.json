@@ -1,1 +1,1 @@
-{"state":"processing","package":"MachGauge","position":1918,"catalog_packages":3738,"updated_at":"2026-09-15T23:01:41.630653+00:00"}
+{"state":"failed","package":"MachGauge","position":1918,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-k12o8pyy.zip'","updated_at":"2026-09-15T23:01:42.502524+00:00"}
