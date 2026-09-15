@@ -1,1 +1,1 @@
-{"state":"processing","package":"Kethane","position":1603,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:20.554044+00:00"}
+{"state":"failed","package":"Kethane","position":1603,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-t2c184l9.zip'","updated_at":"2026-09-15T22:48:21.357184+00:00"}
