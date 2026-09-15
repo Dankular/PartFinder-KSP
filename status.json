@@ -1,1 +1,1 @@
-{"state":"processing","package":"Mk2Avionics","position":2037,"catalog_packages":3738,"updated_at":"2026-09-15T23:07:17.750099+00:00"}
+{"state":"failed","package":"Mk2Avionics","position":2037,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-frwgf4yg.zip'","updated_at":"2026-09-15T23:07:18.565606+00:00"}
