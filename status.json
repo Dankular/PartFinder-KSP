@@ -1,1 +1,1 @@
-{"state":"processing","package":"HalfRSS-Textures4096","position":1110,"catalog_packages":3738,"updated_at":"2026-09-15T22:32:14.000205+00:00"}
+{"state":"failed","package":"HalfRSS-Textures4096","position":1110,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-vxm64n68.zip'","updated_at":"2026-09-15T22:32:15.060779+00:00"}
