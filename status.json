@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalAdventure","position":1377,"catalog_packages":3738,"updated_at":"2026-09-15T22:41:38.440495+00:00"}
+{"state":"failed","package":"KerbalAdventure","position":1377,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-es3w7yc9.zip'","updated_at":"2026-09-15T22:41:39.246192+00:00"}
