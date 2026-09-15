@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalShipEmblems3D","position":1508,"catalog_packages":3738,"updated_at":"2026-09-15T22:45:31.309881+00:00"}
+{"state":"failed","package":"KerbalShipEmblems3D","position":1508,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-d71q0wxv.zip'","updated_at":"2026-09-15T22:45:32.132844+00:00"}
