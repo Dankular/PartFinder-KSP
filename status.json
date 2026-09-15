@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSPAPIExtensions","position":1744,"catalog_packages":3738,"updated_at":"2026-09-15T22:54:08.740270+00:00"}
+{"state":"failed","package":"KSPAPIExtensions","position":1744,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-w1_oii8g.zip'","updated_at":"2026-09-15T22:54:09.554874+00:00"}
