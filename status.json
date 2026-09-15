@@ -1,1 +1,1 @@
-{"state":"processing","package":"JNSQ-RibbonPack","position":1288,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:00.563275+00:00"}
+{"state":"failed","package":"JNSQ-RibbonPack","position":1288,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-lfj7l8u0.zip'","updated_at":"2026-09-15T22:39:01.466672+00:00"}
