@@ -1,1 +1,1 @@
-{"state":"processing","package":"JackOLantern","position":1264,"catalog_packages":3738,"updated_at":"2026-09-15T22:38:19.074292+00:00"}
+{"state":"failed","package":"JackOLantern","position":1264,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-xso9skq6.zip'","updated_at":"2026-09-15T22:38:19.810146+00:00"}
