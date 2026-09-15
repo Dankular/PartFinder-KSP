@@ -1,1 +1,1 @@
-{"state":"processing","package":"JDLiquidFuelCell","position":1275,"catalog_packages":3738,"updated_at":"2026-09-15T22:38:37.443957+00:00"}
+{"state":"failed","package":"JDLiquidFuelCell","position":1275,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-1nbh_v1d.zip'","updated_at":"2026-09-15T22:38:38.257395+00:00"}
