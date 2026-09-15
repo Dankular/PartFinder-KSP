@@ -1,1 +1,1 @@
-{"state":"processing","package":"KoKo","position":1643,"catalog_packages":3738,"updated_at":"2026-09-15T22:49:36.171297+00:00"}
+{"state":"failed","package":"KoKo","position":1643,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-sgosshyv.zip'","updated_at":"2026-09-15T22:49:37.084094+00:00"}
