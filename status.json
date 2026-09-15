@@ -1,1 +1,1 @@
-{"state":"processing","package":"ContractsWindowPlus","position":587,"catalog_packages":3738,"updated_at":"2026-09-15T22:09:16.720154+00:00"}
+{"state":"failed","package":"ContractsWindowPlus","position":587,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-7y3y542r.zip'","updated_at":"2026-09-15T22:09:17.560491+00:00"}
