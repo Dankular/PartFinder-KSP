@@ -1,1 +1,1 @@
-{"state":"processing","package":"KIEFighter","position":1611,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:35.870922+00:00"}
+{"state":"failed","package":"KIEFighter","position":1611,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-5hrzew50.zip'","updated_at":"2026-09-15T22:48:36.681791+00:00"}
