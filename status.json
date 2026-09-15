@@ -1,1 +1,1 @@
-{"state":"processing","package":"MilitaryVehicleChassis","position":1992,"catalog_packages":3738,"updated_at":"2026-09-15T23:05:11.211209+00:00"}
+{"state":"failed","package":"MilitaryVehicleChassis","position":1992,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:05:14.127470+00:00"}
