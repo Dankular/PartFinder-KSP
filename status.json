@@ -1,1 +1,1 @@
-{"state":"processing","package":"Droplet","position":777,"catalog_packages":3738,"updated_at":"2026-09-15T22:15:20.751451+00:00"}
+{"state":"failed","package":"Droplet","position":777,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-jywe9mdn.zip'","updated_at":"2026-09-15T22:15:21.712051+00:00"}
