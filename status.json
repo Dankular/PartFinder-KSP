@@ -1,1 +1,1 @@
-{"state":"processing","package":"ExoMobilityUtilityVehicle","position":898,"catalog_packages":3738,"updated_at":"2026-09-15T22:20:58.251394+00:00"}
+{"state":"failed","package":"ExoMobilityUtilityVehicle","position":898,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:21:00.709195+00:00"}
