@@ -1,1 +1,1 @@
-{"state":"processing","package":"KcalbelohFinalFrontierRibbonPack","position":1354,"catalog_packages":3738,"updated_at":"2026-09-15T22:40:59.047768+00:00"}
+{"state":"failed","package":"KcalbelohFinalFrontierRibbonPack","position":1354,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-p_6bzv4f.zip'","updated_at":"2026-09-15T22:40:59.889889+00:00"}
