@@ -1,1 +1,1 @@
-{"state":"processing","package":"FlyByWireSASMode","position":987,"catalog_packages":3738,"updated_at":"2026-09-15T22:25:49.005437+00:00"}
+{"state":"failed","package":"FlyByWireSASMode","position":987,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:25:50.370582+00:00"}
