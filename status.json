@@ -1,1 +1,1 @@
-{"state":"processing","package":"HabTech2","position":1102,"catalog_packages":3738,"updated_at":"2026-09-15T22:31:56.074495+00:00"}
+{"state":"failed","package":"HabTech2","position":1102,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:31:57.583742+00:00"}
