@@ -1,1 +1,1 @@
-{"state":"processing","package":"ManeuverQueue","position":1939,"catalog_packages":3738,"updated_at":"2026-09-15T23:02:39.580593+00:00"}
+{"state":"failed","package":"ManeuverQueue","position":1939,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-9um51qtu.zip'","updated_at":"2026-09-15T23:02:40.606221+00:00"}
