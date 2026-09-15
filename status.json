@@ -1,1 +1,1 @@
-{"state":"processing","package":"kspboatparts","position":1747,"catalog_packages":3738,"updated_at":"2026-09-15T22:54:15.735508+00:00"}
+{"state":"failed","package":"kspboatparts","position":1747,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-x4rvuyb2.zip'","updated_at":"2026-09-15T22:54:16.867128+00:00"}
