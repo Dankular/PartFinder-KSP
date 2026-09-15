@@ -1,1 +1,1 @@
-{"state":"processing","package":"JNSQ-KSRGAP","position":1283,"catalog_packages":3738,"updated_at":"2026-09-15T22:38:52.123725+00:00"}
+{"state":"failed","package":"JNSQ-KSRGAP","position":1283,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-rm2wgsuj.zip'","updated_at":"2026-09-15T22:38:52.881681+00:00"}
