@@ -1,1 +1,1 @@
-{"state":"processing","package":"LunaQuicksave","position":1912,"catalog_packages":3738,"updated_at":"2026-09-15T23:01:27.545215+00:00"}
+{"state":"failed","package":"LunaQuicksave","position":1912,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-_00zfxc_.zip'","updated_at":"2026-09-15T23:01:28.435009+00:00"}
