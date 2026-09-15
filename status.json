@@ -1,1 +1,1 @@
-{"state":"processing","package":"FirespitterResourcesConfig","position":972,"catalog_packages":3738,"updated_at":"2026-09-15T22:25:02.021328+00:00"}
+{"state":"failed","package":"FirespitterResourcesConfig","position":972,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:25:03.394690+00:00"}
