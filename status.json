@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSPChromaControl","position":1755,"catalog_packages":3738,"updated_at":"2026-09-15T22:54:34.350855+00:00"}
+{"state":"failed","package":"KSPChromaControl","position":1755,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-kaqx_9ot.zip'","updated_at":"2026-09-15T22:54:35.453686+00:00"}
