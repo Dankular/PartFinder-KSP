@@ -1,1 +1,1 @@
-{"state":"processing","package":"EtherealFrigus","position":869,"catalog_packages":3738,"updated_at":"2026-09-15T22:19:12.712568+00:00"}
+{"state":"failed","package":"EtherealFrigus","position":869,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:19:15.176609+00:00"}
