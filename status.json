@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalActuators","position":1375,"catalog_packages":3738,"updated_at":"2026-09-15T22:41:35.100041+00:00"}
+{"state":"failed","package":"KerbalActuators","position":1375,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-oudlctjb.zip'","updated_at":"2026-09-15T22:41:36.062309+00:00"}
