@@ -1,1 +1,1 @@
-{"state":"processing","package":"LosslessISRU","position":1899,"catalog_packages":3738,"updated_at":"2026-09-15T23:00:56.469279+00:00"}
+{"state":"failed","package":"LosslessISRU","position":1899,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-kd7f1t32.zip'","updated_at":"2026-09-15T23:00:57.588882+00:00"}
