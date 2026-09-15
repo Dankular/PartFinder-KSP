@@ -1,1 +1,1 @@
-{"state":"processing","package":"Kerbalism-Config-RO","position":1440,"catalog_packages":3738,"updated_at":"2026-09-15T22:43:28.256932+00:00"}
+{"state":"failed","package":"Kerbalism-Config-RO","position":1440,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-h7nnd3ah.zip'","updated_at":"2026-09-15T22:43:29.044502+00:00"}
