@@ -1,1 +1,1 @@
-{"state":"processing","package":"CrewPortraits","position":616,"catalog_packages":3738,"updated_at":"2026-09-15T22:10:17.412068+00:00"}
+{"state":"failed","package":"CrewPortraits","position":616,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:10:19.449544+00:00"}
