@@ -1,1 +1,1 @@
-{"state":"processing","package":"MicrobiologyExpansion","position":1979,"catalog_packages":3738,"updated_at":"2026-09-15T23:04:26.409128+00:00"}
+{"state":"failed","package":"MicrobiologyExpansion","position":1979,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-yhvg424_.zip'","updated_at":"2026-09-15T23:04:27.395572+00:00"}
