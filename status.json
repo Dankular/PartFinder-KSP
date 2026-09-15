@@ -1,1 +1,1 @@
-{"state":"processing","package":"LazTekSpaceXExploration-LD","position":1851,"catalog_packages":3738,"updated_at":"2026-09-15T22:58:52.292691+00:00"}
+{"state":"failed","package":"LazTekSpaceXExploration-LD","position":1851,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-6r9cdl3p.zip'","updated_at":"2026-09-15T22:58:53.142278+00:00"}
