@@ -1,1 +1,1 @@
-{"state":"processing","package":"KabramsSunFlaresPack-Red-Low","position":1328,"catalog_packages":3738,"updated_at":"2026-09-15T22:40:12.303121+00:00"}
+{"state":"failed","package":"KabramsSunFlaresPack-Red-Low","position":1328,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-nc9actyj.zip'","updated_at":"2026-09-15T22:40:13.258974+00:00"}
