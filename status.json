@@ -1,1 +1,1 @@
-{"state":"processing","package":"DongFangHongPlatformSeries","position":760,"catalog_packages":3738,"updated_at":"2026-09-15T22:14:49.915109+00:00"}
+{"state":"failed","package":"DongFangHongPlatformSeries","position":760,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-neg6ikjt.zip'","updated_at":"2026-09-15T22:14:50.740204+00:00"}
