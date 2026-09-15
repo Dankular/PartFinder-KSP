@@ -1,1 +1,1 @@
-{"state":"processing","package":"GrannusExpansionPack","position":1069,"catalog_packages":3738,"updated_at":"2026-09-15T22:30:26.691746+00:00"}
+{"state":"failed","package":"GrannusExpansionPack","position":1069,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-wcf53z03.zip'","updated_at":"2026-09-15T22:30:27.768251+00:00"}
