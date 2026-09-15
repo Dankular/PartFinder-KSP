@@ -1,1 +1,1 @@
-{"state":"processing","package":"KopernicusExpansionContinued-Wormholes","position":1665,"catalog_packages":3738,"updated_at":"2026-09-15T22:50:25.100222+00:00"}
+{"state":"failed","package":"KopernicusExpansionContinued-Wormholes","position":1665,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:50:26.510809+00:00"}
