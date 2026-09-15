@@ -1,1 +1,1 @@
-{"state":"processing","package":"ClickThroughBlocker","position":472,"catalog_packages":3738,"updated_at":"2026-09-15T22:03:09.867690+00:00"}
+{"state":"failed","package":"ClickThroughBlocker","position":472,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:03:11.316487+00:00"}
