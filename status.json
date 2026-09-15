@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalJointReinforcement","position":1463,"catalog_packages":3738,"updated_at":"2026-09-15T22:44:10.675756+00:00"}
+{"state":"failed","package":"KerbalJointReinforcement","position":1463,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-k1ii1a3j.zip'","updated_at":"2026-09-15T22:44:11.470828+00:00"}
