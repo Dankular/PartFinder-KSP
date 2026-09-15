@@ -1,1 +1,1 @@
-{"state":"processing","package":"KineticPenetratorbyVanguardAstrodynamics","position":1613,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:39.840143+00:00"}
+{"state":"failed","package":"KineticPenetratorbyVanguardAstrodynamics","position":1613,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-qnq1gcm6.zip'","updated_at":"2026-09-15T22:48:40.585947+00:00"}
