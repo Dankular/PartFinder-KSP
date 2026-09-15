@@ -1,1 +1,1 @@
-{"state":"processing","package":"KDEX","position":1358,"catalog_packages":3738,"updated_at":"2026-09-15T22:41:05.754915+00:00"}
+{"state":"failed","package":"KDEX","position":1358,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-fjw2b2cs.zip'","updated_at":"2026-09-15T22:41:06.590943+00:00"}
