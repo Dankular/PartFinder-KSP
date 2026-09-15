@@ -1,1 +1,1 @@
-{"state":"processing","package":"DeployableInventory","position":711,"catalog_packages":3738,"updated_at":"2026-09-15T22:13:17.956263+00:00"}
+{"state":"failed","package":"DeployableInventory","position":711,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-2wj848gd.zip'","updated_at":"2026-09-15T22:13:18.843324+00:00"}
