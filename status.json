@@ -1,1 +1,1 @@
-{"state":"processing","package":"JakesKonstructStatics","position":1265,"catalog_packages":3738,"updated_at":"2026-09-15T22:38:20.621148+00:00"}
+{"state":"failed","package":"JakesKonstructStatics","position":1265,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-a1vic4hi.zip'","updated_at":"2026-09-15T22:38:21.374566+00:00"}
