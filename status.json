@@ -1,1 +1,1 @@
-{"state":"processing","package":"Mk-33","position":2026,"catalog_packages":3738,"updated_at":"2026-09-15T23:06:53.467944+00:00"}
+{"state":"failed","package":"Mk-33","position":2026,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-1zia6fze.zip'","updated_at":"2026-09-15T23:06:54.376381+00:00"}
