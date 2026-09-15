@@ -1,1 +1,1 @@
-{"state":"processing","package":"DaMichelLtd","position":665,"catalog_packages":3738,"updated_at":"2026-09-15T22:11:53.991341+00:00"}
+{"state":"failed","package":"DaMichelLtd","position":665,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-s_2rhm6y.zip'","updated_at":"2026-09-15T22:11:54.807742+00:00"}
