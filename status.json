@@ -1,1 +1,1 @@
-{"state":"processing","package":"MelantuAtmosphericHarvesting","position":1966,"catalog_packages":3738,"updated_at":"2026-09-15T23:03:52.471240+00:00"}
+{"state":"failed","package":"MelantuAtmosphericHarvesting","position":1966,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ixs60djy.zip'","updated_at":"2026-09-15T23:03:53.532464+00:00"}
