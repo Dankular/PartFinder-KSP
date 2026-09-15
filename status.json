@@ -1,1 +1,1 @@
-{"state":"processing","package":"kOS-Astrogator","position":1672,"catalog_packages":3738,"updated_at":"2026-09-15T22:50:48.574600+00:00"}
+{"state":"failed","package":"kOS-Astrogator","position":1672,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-vf6jzhlj.zip'","updated_at":"2026-09-15T22:50:49.450507+00:00"}
