@@ -1,1 +1,1 @@
-{"state":"processing","package":"CustomScienceContracts-StockConfig","position":658,"catalog_packages":3738,"updated_at":"2026-09-15T22:11:40.000463+00:00"}
+{"state":"failed","package":"CustomScienceContracts-StockConfig","position":658,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ejgzxad9.zip'","updated_at":"2026-09-15T22:11:40.801256+00:00"}
