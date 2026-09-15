@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalSports","position":1513,"catalog_packages":3738,"updated_at":"2026-09-15T22:45:40.138444+00:00"}
+{"state":"failed","package":"KerbalSports","position":1513,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-qu0svle3.zip'","updated_at":"2026-09-15T22:45:41.003824+00:00"}
