@@ -1,1 +1,1 @@
-{"state":"processing","package":"KISFrenchTranslationPatch","position":1620,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:52.431433+00:00"}
+{"state":"failed","package":"KISFrenchTranslationPatch","position":1620,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-lvtq43o6.zip'","updated_at":"2026-09-15T22:48:53.273858+00:00"}
