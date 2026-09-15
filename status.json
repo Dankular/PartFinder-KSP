@@ -1,1 +1,1 @@
-{"state":"processing","package":"FuturisticEngines","position":1028,"catalog_packages":3738,"updated_at":"2026-09-15T22:28:38.860988+00:00"}
+{"state":"failed","package":"FuturisticEngines","position":1028,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:28:41.504985+00:00"}
