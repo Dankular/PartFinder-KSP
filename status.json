@@ -1,1 +1,1 @@
-{"state":"processing","package":"LittleLandsExpansion-DefaultConfig","position":1886,"catalog_packages":3738,"updated_at":"2026-09-15T23:00:19.934319+00:00"}
+{"state":"failed","package":"LittleLandsExpansion-DefaultConfig","position":1886,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:00:22.605150+00:00"}
