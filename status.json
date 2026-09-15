@@ -1,1 +1,1 @@
-{"state":"processing","package":"ContractConfigurator-HistoryofSpaceflight-RSS","position":561,"catalog_packages":3738,"updated_at":"2026-09-15T22:08:10.607078+00:00"}
+{"state":"failed","package":"ContractConfigurator-HistoryofSpaceflight-RSS","position":561,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:08:12.908962+00:00"}
