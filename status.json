@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbolSystemExpansion","position":1583,"catalog_packages":3738,"updated_at":"2026-09-15T22:47:46.300073+00:00"}
+{"state":"failed","package":"KerbolSystemExpansion","position":1583,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-zrd1tahq.zip'","updated_at":"2026-09-15T22:47:47.244172+00:00"}
