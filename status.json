@@ -1,1 +1,1 @@
-{"state":"processing","package":"LEAForKSP","position":1862,"catalog_packages":3738,"updated_at":"2026-09-15T22:59:16.266518+00:00"}
+{"state":"failed","package":"LEAForKSP","position":1862,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-1ja91ycl.zip'","updated_at":"2026-09-15T22:59:17.138535+00:00"}
