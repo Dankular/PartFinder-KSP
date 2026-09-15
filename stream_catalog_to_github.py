@@ -40,8 +40,16 @@ def request(url: str, token: str, method: str = "GET", payload: dict | None = No
 
 def fetch_bytes(url: str) -> bytes:
     req = urllib.request.Request(url, headers={"User-Agent": "PartFinder-KSP/1.0"})
-    with urllib.request.urlopen(req, timeout=180) as response:
-        return response.read()
+    last_error = None
+    for attempt in range(1, 4):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as response:
+                return response.read()
+        except (OSError, urllib.error.URLError) as exc:
+            last_error = exc
+            if attempt < 3:
+                print(f"download retry {attempt}/2: {url}", flush=True)
+    raise last_error
 
 
 def current_packages(blob: bytes) -> list[dict]:
@@ -141,6 +149,10 @@ def main() -> int:
             print(f"[{number}/{len(selected)}] unchanged {identifier}", flush=True)
             continue
         try:
+            status = {"state": "processing", "package": identifier, "position": number,
+                      "catalog_packages": len(catalog), "updated_at": datetime.now(timezone.utc).isoformat()}
+            head = commit(args.repo, token, head, {"status.json": json.dumps(status, separators=(",", ":"))},
+                          f"Process {identifier}")
             package_parts = inspect_package(package)
             old_parts = old.get("parts", [])
             for part in old_parts:
