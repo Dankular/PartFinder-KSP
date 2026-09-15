@@ -1,1 +1,1 @@
-{"state":"processing","package":"FantomWorksKAXPartPack","position":933,"catalog_packages":3738,"updated_at":"2026-09-15T22:23:01.666371+00:00"}
+{"state":"failed","package":"FantomWorksKAXPartPack","position":933,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:23:04.489998+00:00"}
