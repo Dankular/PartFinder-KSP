@@ -1,1 +1,1 @@
-{"state":"processing","package":"ExceptionDetectorEnhanced","position":895,"catalog_packages":3738,"updated_at":"2026-09-15T22:20:49.815232+00:00"}
+{"state":"failed","package":"ExceptionDetectorEnhanced","position":895,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:20:51.914048+00:00"}
