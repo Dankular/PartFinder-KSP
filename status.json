@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbinSideRemasteredGAP","position":1550,"catalog_packages":3738,"updated_at":"2026-09-15T22:46:48.366363+00:00"}
+{"state":"failed","package":"KerbinSideRemasteredGAP","position":1550,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-tm4v6veo.zip'","updated_at":"2026-09-15T22:46:49.369541+00:00"}
