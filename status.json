@@ -1,1 +1,1 @@
-{"state":"processing","package":"Mk2Rebalance","position":2044,"catalog_packages":3738,"updated_at":"2026-09-15T23:07:41.570998+00:00"}
+{"state":"failed","package":"Mk2Rebalance","position":2044,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ktyj3bt6.zip'","updated_at":"2026-09-15T23:07:42.494136+00:00"}
