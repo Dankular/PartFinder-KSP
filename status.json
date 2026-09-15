@@ -1,1 +1,1 @@
-{"state":"processing","package":"CommNetAntennasInfo","position":503,"catalog_packages":3738,"updated_at":"2026-09-15T22:05:02.645584+00:00"}
+{"state":"failed","package":"CommNetAntennasInfo","position":503,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:05:04.583907+00:00"}
