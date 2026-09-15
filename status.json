@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalFlightData","position":1406,"catalog_packages":3738,"updated_at":"2026-09-15T22:42:28.913096+00:00"}
+{"state":"failed","package":"KerbalFlightData","position":1406,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-aoqb3qtv.zip'","updated_at":"2026-09-15T22:42:29.686681+00:00"}
