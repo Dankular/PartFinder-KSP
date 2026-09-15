@@ -1,1 +1,1 @@
-{"state":"processing","package":"KreeglandIndustrialRepurposing","position":1702,"catalog_packages":3738,"updated_at":"2026-09-15T22:52:15.770926+00:00"}
+{"state":"failed","package":"KreeglandIndustrialRepurposing","position":1702,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-kd69g2o3.zip'","updated_at":"2026-09-15T22:52:16.548443+00:00"}
