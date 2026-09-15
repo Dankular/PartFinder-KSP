@@ -1,1 +1,1 @@
-{"state":"processing","package":"MagpieMods","position":1924,"catalog_packages":3738,"updated_at":"2026-09-15T23:01:58.378288+00:00"}
+{"state":"failed","package":"MagpieMods","position":1924,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-z9vyqkpz.zip'","updated_at":"2026-09-15T23:01:59.522398+00:00"}
