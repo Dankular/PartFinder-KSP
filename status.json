@@ -1,1 +1,1 @@
-{"state":"processing","package":"ControlFromHere","position":588,"catalog_packages":3738,"updated_at":"2026-09-15T22:09:18.370768+00:00"}
+{"state":"failed","package":"ControlFromHere","position":588,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-vtvqz969.zip'","updated_at":"2026-09-15T22:09:19.368079+00:00"}
