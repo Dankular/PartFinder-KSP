@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSPPluginLoader","position":1772,"catalog_packages":3738,"updated_at":"2026-09-15T22:55:15.510228+00:00"}
+{"state":"failed","package":"KSPPluginLoader","position":1772,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-obqf81ok.zip'","updated_at":"2026-09-15T22:55:16.454972+00:00"}
