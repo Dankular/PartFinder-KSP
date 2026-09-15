@@ -1,1 +1,1 @@
-{"state":"processing","package":"KeR-7","position":1373,"catalog_packages":3738,"updated_at":"2026-09-15T22:41:31.898392+00:00"}
+{"state":"failed","package":"KeR-7","position":1373,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-22xh_dar.zip'","updated_at":"2026-09-15T22:41:32.821176+00:00"}
