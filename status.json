@@ -1,1 +1,1 @@
-{"state":"processing","package":"KabramsSunFlaresPack-Diamond-Low","position":1319,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:56.748186+00:00"}
+{"state":"failed","package":"KabramsSunFlaresPack-Diamond-Low","position":1319,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-cjm3v28v.zip'","updated_at":"2026-09-15T22:39:57.521925+00:00"}
