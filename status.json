@@ -1,1 +1,1 @@
-{"state":"processing","package":"MinkTechnologies","position":2004,"catalog_packages":3738,"updated_at":"2026-09-15T23:05:47.607306+00:00"}
+{"state":"failed","package":"MinkTechnologies","position":2004,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:05:55.474379+00:00"}
