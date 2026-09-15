@@ -1,1 +1,1 @@
-{"state":"processing","package":"ColdJHotAirBalloon","position":480,"catalog_packages":3738,"updated_at":"2026-09-15T22:03:34.886532+00:00"}
+{"state":"failed","package":"ColdJHotAirBalloon","position":480,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:03:37.506139+00:00"}
