@@ -1,1 +1,1 @@
-{"state":"processing","package":"FlightTracker","position":986,"catalog_packages":3738,"updated_at":"2026-09-15T22:25:46.518538+00:00"}
+{"state":"failed","package":"FlightTracker","position":986,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:25:47.997479+00:00"}
