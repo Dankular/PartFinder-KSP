@@ -1,1 +1,1 @@
-{"state":"processing","package":"HarderSolarSystem-1x","position":1118,"catalog_packages":3738,"updated_at":"2026-09-15T22:32:41.555282+00:00"}
+{"state":"failed","package":"HarderSolarSystem-1x","position":1118,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:32:42.944996+00:00"}
