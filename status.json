@@ -1,1 +1,1 @@
-{"state":"processing","package":"KeyNode","position":1605,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:24.146454+00:00"}
+{"state":"failed","package":"KeyNode","position":1605,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-7mpzxzbt.zip'","updated_at":"2026-09-15T22:48:25.099873+00:00"}
