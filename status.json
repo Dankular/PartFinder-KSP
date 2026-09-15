@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalFX-ImpactPuffs","position":1420,"catalog_packages":3738,"updated_at":"2026-09-15T22:42:53.697865+00:00"}
+{"state":"failed","package":"KerbalFX-ImpactPuffs","position":1420,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-4bg726cy.zip'","updated_at":"2026-09-15T22:42:54.422947+00:00"}
