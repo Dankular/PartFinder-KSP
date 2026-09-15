@@ -1,1 +1,1 @@
-{"state":"processing","package":"KourageousTourists","position":1692,"catalog_packages":3738,"updated_at":"2026-09-15T22:51:50.654516+00:00"}
+{"state":"failed","package":"KourageousTourists","position":1692,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:51:52.797795+00:00"}
