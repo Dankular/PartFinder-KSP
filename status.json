@@ -1,1 +1,1 @@
-{"state":"processing","package":"G3MagnetBoots","position":1031,"catalog_packages":3738,"updated_at":"2026-09-15T22:28:47.537436+00:00"}
+{"state":"failed","package":"G3MagnetBoots","position":1031,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:28:49.131011+00:00"}
