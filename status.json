@@ -1,1 +1,1 @@
-{"state":"processing","package":"DixiesPlanetPack","position":736,"catalog_packages":3738,"updated_at":"2026-09-15T22:14:05.651083+00:00"}
+{"state":"failed","package":"DixiesPlanetPack","position":736,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-2nz0qw7_.zip'","updated_at":"2026-09-15T22:14:06.722420+00:00"}
