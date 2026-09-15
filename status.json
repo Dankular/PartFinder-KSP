@@ -1,1 +1,1 @@
-{"state":"processing","package":"DreskillerBase","position":770,"catalog_packages":3738,"updated_at":"2026-09-15T22:15:07.771400+00:00"}
+{"state":"failed","package":"DreskillerBase","position":770,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-9qr4wekq.zip'","updated_at":"2026-09-15T22:15:08.729884+00:00"}
