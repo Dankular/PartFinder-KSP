@@ -1,1 +1,1 @@
-{"state":"processing","package":"DeepFreeze","position":698,"catalog_packages":3738,"updated_at":"2026-09-15T22:12:54.409608+00:00"}
+{"state":"failed","package":"DeepFreeze","position":698,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-4c1trexj.zip'","updated_at":"2026-09-15T22:12:55.243726+00:00"}
