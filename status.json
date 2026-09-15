@@ -1,1 +1,1 @@
-{"state":"processing","package":"MissionPlanner","position":2025,"catalog_packages":3738,"updated_at":"2026-09-15T23:06:51.778126+00:00"}
+{"state":"failed","package":"MissionPlanner","position":2025,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-82k43htf.zip'","updated_at":"2026-09-15T23:06:52.567672+00:00"}
