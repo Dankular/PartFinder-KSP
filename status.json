@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbinRoverOffRoadVehicles","position":1539,"catalog_packages":3738,"updated_at":"2026-09-15T22:46:27.690893+00:00"}
+{"state":"failed","package":"KerbinRoverOffRoadVehicles","position":1539,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-fr3k7o7g.zip'","updated_at":"2026-09-15T22:46:28.737436+00:00"}
