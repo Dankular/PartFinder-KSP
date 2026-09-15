@@ -1,1 +1,1 @@
-{"state":"processing","package":"MK2KSPIIntegration","position":2041,"catalog_packages":3738,"updated_at":"2026-09-15T23:07:34.609183+00:00"}
+{"state":"failed","package":"MK2KSPIIntegration","position":2041,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:07:36.408368+00:00"}
