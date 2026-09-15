@@ -1,1 +1,1 @@
-{"state":"processing","package":"GenericMoverPack","position":1043,"catalog_packages":3738,"updated_at":"2026-09-15T22:29:21.594513+00:00"}
+{"state":"failed","package":"GenericMoverPack","position":1043,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-09ypzop_.zip'","updated_at":"2026-09-15T22:29:22.673615+00:00"}
