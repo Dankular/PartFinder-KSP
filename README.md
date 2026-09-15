@@ -26,3 +26,14 @@ python .\build_part_registry.py --download --ephemeral --dataset-dir .\dataset -
 ```
 
 The normal mode keeps `.mod-cache` and `dataset/package-index.json` between runs. VPS mode uses `--ephemeral`: each archive is temporary and deleted immediately after indexing. On refresh, `--previous-state-url` loads the prior published `package-index.json`; unchanged packages are reused in memory, while new or changed packages are downloaded and inspected. Publish `parts.json`, `packages.json`, `manifest.json`, and `package-index.json` to GitHub. Use `--limit 10` for a smoke test first. Do not retain `.mod-cache` on the VPS.
+
+## VPS direct-to-GitHub mode
+
+To keep no catalog-derived files on the VPS, use the direct publisher instead:
+
+```bash
+PARTFINDER_GITHUB_TOKEN=... python3 stream_catalog_to_github.py \
+  --repo Dankular/PartFinder-KSP
+```
+
+It processes one package at a time, commits that package immediately, and deletes its temporary archive before moving on. It skips packages whose URL/hash is unchanged, so reruns refresh only new or changed mods.
