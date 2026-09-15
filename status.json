@@ -1,1 +1,1 @@
-{"state":"processing","package":"InfernalRobotics","position":1211,"catalog_packages":3738,"updated_at":"2026-09-15T22:36:43.471550+00:00"}
+{"state":"failed","package":"InfernalRobotics","position":1211,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-jehlnbrw.zip'","updated_at":"2026-09-15T22:36:44.334167+00:00"}
