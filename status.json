@@ -1,1 +1,1 @@
-{"state":"processing","package":"DSEV-PlayMode-CRP","position":781,"catalog_packages":3738,"updated_at":"2026-09-15T22:15:28.119595+00:00"}
+{"state":"failed","package":"DSEV-PlayMode-CRP","position":781,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-tngqj2wv.zip'","updated_at":"2026-09-15T22:15:28.945250+00:00"}
