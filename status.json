@@ -1,1 +1,1 @@
-{"state":"processing","package":"IONRCS","position":1246,"catalog_packages":3738,"updated_at":"2026-09-15T22:37:47.500587+00:00"}
+{"state":"failed","package":"IONRCS","position":1246,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-q8u0repr.zip'","updated_at":"2026-09-15T22:37:48.620964+00:00"}
