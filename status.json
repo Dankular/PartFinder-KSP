@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSCFloodlight","position":1718,"catalog_packages":3738,"updated_at":"2026-09-15T22:52:56.148079+00:00"}
+{"state":"failed","package":"KSCFloodlight","position":1718,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-xwputyb8.zip'","updated_at":"2026-09-15T22:52:57.039694+00:00"}
