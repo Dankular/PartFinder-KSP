@@ -1,1 +1,1 @@
-{"state":"processing","package":"GolderSystem","position":1052,"catalog_packages":3738,"updated_at":"2026-09-15T22:29:44.580457+00:00"}
+{"state":"failed","package":"GolderSystem","position":1052,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:29:47.035919+00:00"}
