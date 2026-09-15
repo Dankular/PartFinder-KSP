@@ -1,1 +1,1 @@
-{"state":"processing","package":"HyperPropulsionSciFiEnginePack","position":1187,"catalog_packages":3738,"updated_at":"2026-09-15T22:35:55.080047+00:00"}
+{"state":"failed","package":"HyperPropulsionSciFiEnginePack","position":1187,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-dd8cui1e.zip'","updated_at":"2026-09-15T22:35:56.143464+00:00"}
