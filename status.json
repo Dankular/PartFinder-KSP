@@ -1,1 +1,1 @@
-{"state":"processing","package":"Kerbalism-FarFutureTechnologies","position":1442,"catalog_packages":3738,"updated_at":"2026-09-15T22:43:31.711022+00:00"}
+{"state":"failed","package":"Kerbalism-FarFutureTechnologies","position":1442,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-7dc9un3r.zip'","updated_at":"2026-09-15T22:43:32.479066+00:00"}
