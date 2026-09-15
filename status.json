@@ -1,1 +1,1 @@
-{"state":"processing","package":"G-Effects","position":1030,"catalog_packages":3738,"updated_at":"2026-09-15T22:28:45.315449+00:00"}
+{"state":"failed","package":"G-Effects","position":1030,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:28:46.770865+00:00"}
