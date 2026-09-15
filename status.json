@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSPCommunityPartModules","position":1757,"catalog_packages":3738,"updated_at":"2026-09-15T22:54:38.679929+00:00"}
+{"state":"failed","package":"KSPCommunityPartModules","position":1757,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-yjwojinm.zip'","updated_at":"2026-09-15T22:54:39.491389+00:00"}
