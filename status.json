@@ -1,1 +1,1 @@
-{"state":"processing","package":"EmDriveByBeale","position":828,"catalog_packages":3738,"updated_at":"2026-09-15T22:16:53.475684+00:00"}
+{"state":"failed","package":"EmDriveByBeale","position":828,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-3irv9tey.zip'","updated_at":"2026-09-15T22:16:54.249601+00:00"}
