@@ -1,1 +1,1 @@
-{"state":"processing","package":"LaunchNumbering","position":1839,"catalog_packages":3738,"updated_at":"2026-09-15T22:58:23.332464+00:00"}
+{"state":"failed","package":"LaunchNumbering","position":1839,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-s80rk1_a.zip'","updated_at":"2026-09-15T22:58:24.197442+00:00"}
