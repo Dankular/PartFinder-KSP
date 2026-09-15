@@ -1,1 +1,1 @@
-{"state":"processing","package":"BargainRockets","position":256,"catalog_packages":3738,"updated_at":"2026-09-15T21:48:13.266550+00:00"}
+{"state":"failed","package":"BargainRockets","position":256,"catalog_packages":3738,"error":"<urlopen error [Errno -2] Name or service not known>","updated_at":"2026-09-15T21:48:14.414707+00:00"}
