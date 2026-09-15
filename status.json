@@ -1,1 +1,1 @@
-{"state":"processing","package":"EngineIgniter","position":834,"catalog_packages":3738,"updated_at":"2026-09-15T22:17:04.538822+00:00"}
+{"state":"failed","package":"EngineIgniter","position":834,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-l6ufl2tz.zip'","updated_at":"2026-09-15T22:17:05.341317+00:00"}
