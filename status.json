@@ -1,1 +1,1 @@
-{"state":"processing","package":"MaterialExtensionsForRealChute","position":1956,"catalog_packages":3738,"updated_at":"2026-09-15T23:03:24.715359+00:00"}
+{"state":"failed","package":"MaterialExtensionsForRealChute","position":1956,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-nk7o7_u_.zip'","updated_at":"2026-09-15T23:03:25.814608+00:00"}
