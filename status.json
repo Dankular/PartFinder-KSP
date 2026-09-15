@@ -1,1 +1,1 @@
-{"state":"processing","package":"kOS-EVA","position":1676,"catalog_packages":3738,"updated_at":"2026-09-15T22:51:03.756214+00:00"}
+{"state":"failed","package":"kOS-EVA","position":1676,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:51:05.094123+00:00"}
