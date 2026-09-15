@@ -1,1 +1,1 @@
-{"state":"processing","package":"GrannusExpansionPack-Primary","position":1072,"catalog_packages":3738,"updated_at":"2026-09-15T22:30:32.940897+00:00"}
+{"state":"failed","package":"GrannusExpansionPack-Primary","position":1072,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-l9mhrocz.zip'","updated_at":"2026-09-15T22:30:33.818720+00:00"}
