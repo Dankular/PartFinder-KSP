@@ -1,1 +1,1 @@
-{"state":"processing","package":"JohnsCustomFlags","position":1290,"catalog_packages":3738,"updated_at":"2026-09-15T22:39:04.137056+00:00"}
+{"state":"failed","package":"JohnsCustomFlags","position":1290,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-89_hb6j0.zip'","updated_at":"2026-09-15T22:39:05.008466+00:00"}
