@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalGPSRevived","position":1426,"catalog_packages":3738,"updated_at":"2026-09-15T22:43:03.941659+00:00"}
+{"state":"failed","package":"KerbalGPSRevived","position":1426,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-q0oy_p17.zip'","updated_at":"2026-09-15T22:43:04.863156+00:00"}
