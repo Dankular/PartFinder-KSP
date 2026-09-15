@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalFlightworksCompany","position":1408,"catalog_packages":3738,"updated_at":"2026-09-15T22:42:32.334486+00:00"}
+{"state":"failed","package":"KerbalFlightworksCompany","position":1408,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ri0zyo1p.zip'","updated_at":"2026-09-15T22:42:33.164220+00:00"}
