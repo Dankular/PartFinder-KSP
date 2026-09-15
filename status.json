@@ -1,1 +1,1 @@
-{"state":"processing","package":"MEPS","position":1972,"catalog_packages":3738,"updated_at":"2026-09-15T23:04:06.572033+00:00"}
+{"state":"failed","package":"MEPS","position":1972,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:04:09.108959+00:00"}
