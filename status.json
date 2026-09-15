@@ -1,1 +1,1 @@
-{"state":"processing","package":"EngineAnalyzer","position":831,"catalog_packages":3738,"updated_at":"2026-09-15T22:16:58.762748+00:00"}
+{"state":"failed","package":"EngineAnalyzer","position":831,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-znf33a4t.zip'","updated_at":"2026-09-15T22:16:59.894975+00:00"}
