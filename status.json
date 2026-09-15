@@ -1,1 +1,1 @@
-{"state":"processing","package":"KAINET","position":1333,"catalog_packages":3738,"updated_at":"2026-09-15T22:40:21.614911+00:00"}
+{"state":"failed","package":"KAINET","position":1333,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-optqxgtg.zip'","updated_at":"2026-09-15T22:40:22.484560+00:00"}
