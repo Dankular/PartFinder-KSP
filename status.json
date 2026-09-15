@@ -1,1 +1,1 @@
-{"state":"processing","package":"DeepSkyCore","position":701,"catalog_packages":3738,"updated_at":"2026-09-15T22:12:59.799523+00:00"}
+{"state":"failed","package":"DeepSkyCore","position":701,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-2at90g6z.zip'","updated_at":"2026-09-15T22:13:00.632134+00:00"}
