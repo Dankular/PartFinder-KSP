@@ -1,1 +1,1 @@
-{"state":"processing","package":"LongMarch9CZ9","position":1896,"catalog_packages":3738,"updated_at":"2026-09-15T23:00:49.342164+00:00"}
+{"state":"failed","package":"LongMarch9CZ9","position":1896,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-x_c5bym9.zip'","updated_at":"2026-09-15T23:00:50.531742+00:00"}
