@@ -1,1 +1,1 @@
-{"state":"processing","package":"ElectricalParts","position":819,"catalog_packages":3738,"updated_at":"2026-09-15T22:16:37.748382+00:00"}
+{"state":"failed","package":"ElectricalParts","position":819,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-dc32ffxn.zip'","updated_at":"2026-09-15T22:16:38.519327+00:00"}
