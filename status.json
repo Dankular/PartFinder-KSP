@@ -1,1 +1,1 @@
-{"state":"processing","package":"DecouplerShroud","position":696,"catalog_packages":3738,"updated_at":"2026-09-15T22:12:51.169978+00:00"}
+{"state":"failed","package":"DecouplerShroud","position":696,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-7z8i80yz.zip'","updated_at":"2026-09-15T22:12:52.184153+00:00"}
