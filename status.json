@@ -1,1 +1,1 @@
-{"state":"processing","package":"CollisionFXUpdated","position":492,"catalog_packages":3738,"updated_at":"2026-09-15T22:04:17.377091+00:00"}
+{"state":"failed","package":"CollisionFXUpdated","position":492,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:04:20.289097+00:00"}
