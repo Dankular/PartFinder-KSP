@@ -1,1 +1,1 @@
-{"state":"processing","package":"GrannusExpansionPack-Rescale-10x","position":1074,"catalog_packages":3738,"updated_at":"2026-09-15T22:30:36.277841+00:00"}
+{"state":"failed","package":"GrannusExpansionPack-Rescale-10x","position":1074,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:30:37.674933+00:00"}
