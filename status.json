@@ -1,1 +1,1 @@
-{"state":"processing","package":"LightFixer","position":1872,"catalog_packages":3738,"updated_at":"2026-09-15T22:59:39.462702+00:00"}
+{"state":"failed","package":"LightFixer","position":1872,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-b1_bxjhf.zip'","updated_at":"2026-09-15T22:59:40.483803+00:00"}
