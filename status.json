@@ -1,1 +1,1 @@
-{"state":"processing","package":"Kerbcast","position":1530,"catalog_packages":3738,"updated_at":"2026-09-15T22:46:11.010364+00:00"}
+{"state":"failed","package":"Kerbcast","position":1530,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-cruqba0x.zip'","updated_at":"2026-09-15T22:46:12.150835+00:00"}
