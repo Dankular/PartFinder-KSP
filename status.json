@@ -1,1 +1,1 @@
-{"state":"processing","package":"Heisenberg-PlayMode-Simplified","position":1147,"catalog_packages":3738,"updated_at":"2026-09-15T22:34:02.423972+00:00"}
+{"state":"failed","package":"Heisenberg-PlayMode-Simplified","position":1147,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-nryp4png.zip'","updated_at":"2026-09-15T22:34:03.356285+00:00"}
