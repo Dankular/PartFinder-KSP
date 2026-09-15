@@ -1,1 +1,1 @@
-{"state":"processing","package":"imkSushisPlanetSystem","position":1199,"catalog_packages":3738,"updated_at":"2026-09-15T22:36:18.992421+00:00"}
+{"state":"failed","package":"imkSushisPlanetSystem","position":1199,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-yunkt6f7.zip'","updated_at":"2026-09-15T22:36:19.938115+00:00"}
