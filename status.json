@@ -1,1 +1,1 @@
-{"state":"processing","package":"kOSPropMonitor","position":1691,"catalog_packages":3738,"updated_at":"2026-09-15T22:51:48.675449+00:00"}
+{"state":"failed","package":"kOSPropMonitor","position":1691,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-s1eiuuvt.zip'","updated_at":"2026-09-15T22:51:49.478768+00:00"}
