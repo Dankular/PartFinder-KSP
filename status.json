@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSP-PartVolume","position":1737,"catalog_packages":3738,"updated_at":"2026-09-15T22:53:49.732653+00:00"}
+{"state":"failed","package":"KSP-PartVolume","position":1737,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-2rsfg_vl.zip'","updated_at":"2026-09-15T22:53:50.751194+00:00"}
