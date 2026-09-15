@@ -1,1 +1,1 @@
-{"state":"processing","package":"InfernalRoboticsNext","position":1214,"catalog_packages":3738,"updated_at":"2026-09-15T22:36:48.757270+00:00"}
+{"state":"failed","package":"InfernalRoboticsNext","position":1214,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-z42w5v5b.zip'","updated_at":"2026-09-15T22:36:49.626422+00:00"}
