@@ -1,1 +1,1 @@
-{"state":"processing","package":"CompletelyNonAggressiveRocketry","position":524,"catalog_packages":3738,"updated_at":"2026-09-15T22:06:10.666278+00:00"}
+{"state":"failed","package":"CompletelyNonAggressiveRocketry","position":524,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:06:13.513287+00:00"}
