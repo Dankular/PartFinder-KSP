@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalFuels","position":1413,"catalog_packages":3738,"updated_at":"2026-09-15T22:42:41.643054+00:00"}
+{"state":"failed","package":"KerbalFuels","position":1413,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-yoffuhds.zip'","updated_at":"2026-09-15T22:42:42.436962+00:00"}
