@@ -1,1 +1,1 @@
-{"state":"processing","package":"GimbalForAll","position":1048,"catalog_packages":3738,"updated_at":"2026-09-15T22:29:34.143120+00:00"}
+{"state":"failed","package":"GimbalForAll","position":1048,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:29:36.173943+00:00"}
