@@ -1,1 +1,1 @@
-{"state":"processing","package":"kRPC","position":1708,"catalog_packages":3738,"updated_at":"2026-09-15T22:52:28.557852+00:00"}
+{"state":"failed","package":"kRPC","position":1708,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:52:30.049519+00:00"}
