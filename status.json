@@ -1,1 +1,1 @@
-{"state":"processing","package":"KheledrosSystem","position":1607,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:28.464427+00:00"}
+{"state":"failed","package":"KheledrosSystem","position":1607,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-9iwn1l45.zip'","updated_at":"2026-09-15T22:48:29.279602+00:00"}
