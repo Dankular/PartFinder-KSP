@@ -1,1 +1,1 @@
-{"state":"processing","package":"MapViewPlus","position":1946,"catalog_packages":3738,"updated_at":"2026-09-15T23:02:54.962269+00:00"}
+{"state":"failed","package":"MapViewPlus","position":1946,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-0gtl7ypf.zip'","updated_at":"2026-09-15T23:02:55.918954+00:00"}
