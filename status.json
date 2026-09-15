@@ -1,1 +1,1 @@
-{"state":"processing","package":"filipsStarbaseBocaChicaLaunchSite","position":957,"catalog_packages":3738,"updated_at":"2026-09-15T22:24:23.245171+00:00"}
+{"state":"failed","package":"filipsStarbaseBocaChicaLaunchSite","position":957,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:24:25.744048+00:00"}
