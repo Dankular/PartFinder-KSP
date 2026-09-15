@@ -1,1 +1,1 @@
-{"state":"processing","package":"KeslaC1SedanModule","position":1598,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:12.309738+00:00"}
+{"state":"failed","package":"KeslaC1SedanModule","position":1598,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-e9afbavh.zip'","updated_at":"2026-09-15T22:48:13.205919+00:00"}
