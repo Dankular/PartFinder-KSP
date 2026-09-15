@@ -1,1 +1,1 @@
-{"state":"processing","package":"kOS-AddOns-Ferram","position":1670,"catalog_packages":3738,"updated_at":"2026-09-15T22:50:42.069367+00:00"}
+{"state":"failed","package":"kOS-AddOns-Ferram","position":1670,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:50:45.473148+00:00"}
