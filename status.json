@@ -1,1 +1,1 @@
-{"state":"processing","package":"Losket","position":1898,"catalog_packages":3738,"updated_at":"2026-09-15T23:00:53.767787+00:00"}
+{"state":"failed","package":"Losket","position":1898,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:00:55.464947+00:00"}
