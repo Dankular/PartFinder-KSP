@@ -1,1 +1,1 @@
-{"state":"processing","package":"LinbolSystemRebirth-ScattererConfigs","position":1880,"catalog_packages":3738,"updated_at":"2026-09-15T23:00:00.661931+00:00"}
+{"state":"failed","package":"LinbolSystemRebirth-ScattererConfigs","position":1880,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-f8fcwf7d.zip'","updated_at":"2026-09-15T23:00:01.831643+00:00"}
