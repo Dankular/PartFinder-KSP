@@ -1,1 +1,1 @@
-{"state":"processing","package":"DE-IVAExtension","position":687,"catalog_packages":3738,"updated_at":"2026-09-15T22:12:34.814668+00:00"}
+{"state":"failed","package":"DE-IVAExtension","position":687,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-0vf6cico.zip'","updated_at":"2026-09-15T22:12:35.655844+00:00"}
