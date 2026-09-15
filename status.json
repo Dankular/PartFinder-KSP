@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbnetController","position":1556,"catalog_packages":3738,"updated_at":"2026-09-15T22:46:59.076815+00:00"}
+{"state":"failed","package":"KerbnetController","position":1556,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ojhmkxbi.zip'","updated_at":"2026-09-15T22:46:59.834442+00:00"}
