@@ -1,1 +1,1 @@
-{"state":"processing","package":"EditorTime","position":814,"catalog_packages":3738,"updated_at":"2026-09-15T22:16:28.630174+00:00"}
+{"state":"failed","package":"EditorTime","position":814,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-ohxuk0ab.zip'","updated_at":"2026-09-15T22:16:29.963239+00:00"}
