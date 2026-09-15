@@ -1,1 +1,1 @@
-{"state":"processing","package":"Mk1RocketFuelFuselage","position":2034,"catalog_packages":3738,"updated_at":"2026-09-15T23:07:10.341959+00:00"}
+{"state":"failed","package":"Mk1RocketFuelFuselage","position":2034,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-yhg9nn_8.zip'","updated_at":"2026-09-15T23:07:11.142436+00:00"}
