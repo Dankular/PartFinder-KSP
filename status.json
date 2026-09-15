@@ -1,1 +1,1 @@
-{"state":"processing","package":"KGEx","position":1606,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:26.024565+00:00"}
+{"state":"failed","package":"KGEx","position":1606,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-of4izc9e.zip'","updated_at":"2026-09-15T22:48:27.484196+00:00"}
