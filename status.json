@@ -1,1 +1,1 @@
-{"state":"processing","package":"EcoRocket","position":807,"catalog_packages":3738,"updated_at":"2026-09-15T22:16:15.937365+00:00"}
+{"state":"failed","package":"EcoRocket","position":807,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-w_f6q37g.zip'","updated_at":"2026-09-15T22:16:16.786690+00:00"}
