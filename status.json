@@ -1,1 +1,1 @@
-{"state":"processing","package":"KcalbelohSystem-Textures-4k","position":1356,"catalog_packages":3738,"updated_at":"2026-09-15T22:41:02.407165+00:00"}
+{"state":"failed","package":"KcalbelohSystem-Textures-4k","position":1356,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-1hcylxqq.zip'","updated_at":"2026-09-15T22:41:03.337544+00:00"}
