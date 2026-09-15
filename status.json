@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbalMostlyHarmless","position":1484,"catalog_packages":3738,"updated_at":"2026-09-15T22:44:48.788521+00:00"}
+{"state":"failed","package":"KerbalMostlyHarmless","position":1484,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-7gxye0o7.zip'","updated_at":"2026-09-15T22:44:49.619562+00:00"}
