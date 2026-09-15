@@ -1,1 +1,1 @@
-{"state":"processing","package":"HotReloadKSP","position":1171,"catalog_packages":3738,"updated_at":"2026-09-15T22:34:55.792772+00:00"}
+{"state":"failed","package":"HotReloadKSP","position":1171,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T22:34:57.364750+00:00"}
