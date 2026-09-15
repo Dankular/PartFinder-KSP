@@ -1,1 +1,1 @@
-{"state":"processing","package":"CustomBulkheadProfiles","position":647,"catalog_packages":3738,"updated_at":"2026-09-15T22:11:19.672957+00:00"}
+{"state":"failed","package":"CustomBulkheadProfiles","position":647,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-83qqbn01.zip'","updated_at":"2026-09-15T22:11:20.600200+00:00"}
