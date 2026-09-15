@@ -1,1 +1,1 @@
-{"state":"processing","package":"KittopiaTech","position":1622,"catalog_packages":3738,"updated_at":"2026-09-15T22:48:59.774872+00:00"}
+{"state":"failed","package":"KittopiaTech","position":1622,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-6hhvr0pn.zip'","updated_at":"2026-09-15T22:49:00.600914+00:00"}
