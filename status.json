@@ -1,1 +1,1 @@
-{"state":"processing","package":"kOS-StockAlarm","position":1683,"catalog_packages":3738,"updated_at":"2026-09-15T22:51:20.529431+00:00"}
+{"state":"failed","package":"kOS-StockAlarm","position":1683,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-y20panvs.zip'","updated_at":"2026-09-15T22:51:21.616398+00:00"}
