@@ -1,1 +1,1 @@
-{"state":"processing","package":"Mk2Expansion","position":2040,"catalog_packages":3738,"updated_at":"2026-09-15T23:07:32.860200+00:00"}
+{"state":"failed","package":"Mk2Expansion","position":2040,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-z3qo5zbn.zip'","updated_at":"2026-09-15T23:07:33.828480+00:00"}
