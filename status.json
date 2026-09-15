@@ -1,1 +1,1 @@
-{"state":"processing","package":"KerbobulusSpaceIndustriesMiscellaneousPartsDivision","position":1558,"catalog_packages":3738,"updated_at":"2026-09-15T22:47:02.348798+00:00"}
+{"state":"failed","package":"KerbobulusSpaceIndustriesMiscellaneousPartsDivision","position":1558,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-osetcjro.zip'","updated_at":"2026-09-15T22:47:03.134438+00:00"}
