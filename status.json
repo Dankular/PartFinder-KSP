@@ -1,1 +1,1 @@
-{"state":"failed","package":"Historian","position":1158,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-2gxl_mpg.zip'","updated_at":"2026-09-15T22:34:29.813076+00:00"}
+{"state":"processing","package":"Historian-expanded","position":1159,"catalog_packages":3738,"updated_at":"2026-09-15T22:34:30.612315+00:00"}
