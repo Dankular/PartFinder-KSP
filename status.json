@@ -1,1 +1,1 @@
-{"state":"processing","package":"MinorPlanetsExpansion","position":2011,"catalog_packages":3738,"updated_at":"2026-09-15T23:06:12.042871+00:00"}
+{"state":"failed","package":"MinorPlanetsExpansion","position":2011,"catalog_packages":3738,"error":"[Errno 28] No space left on device","updated_at":"2026-09-15T23:06:13.742174+00:00"}
