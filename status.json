@@ -1,1 +1,1 @@
-{"state":"processing","package":"CustomAsteroids-Pops-Stock-Inner","position":639,"catalog_packages":3738,"updated_at":"2026-09-15T22:11:04.313431+00:00"}
+{"state":"failed","package":"CustomAsteroids-Pops-Stock-Inner","position":639,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-jrgmkgmz.zip'","updated_at":"2026-09-15T22:11:05.202382+00:00"}
