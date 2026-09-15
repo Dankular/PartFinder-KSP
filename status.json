@@ -1,1 +1,1 @@
-{"state":"processing","package":"KSP-AVC","position":1735,"catalog_packages":3738,"updated_at":"2026-09-15T22:53:45.284840+00:00"}
+{"state":"failed","package":"KSP-AVC","position":1735,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-_ewmp4_2.zip'","updated_at":"2026-09-15T22:53:46.196295+00:00"}
