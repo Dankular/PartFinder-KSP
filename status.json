@@ -1,1 +1,1 @@
-{"state":"processing","package":"JasperAerospaceTechnologies","position":1272,"catalog_packages":3738,"updated_at":"2026-09-15T22:38:32.425177+00:00"}
+{"state":"failed","package":"JasperAerospaceTechnologies","position":1272,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-yvxrx9z3.zip'","updated_at":"2026-09-15T22:38:33.271361+00:00"}
