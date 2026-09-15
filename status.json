@@ -1,1 +1,1 @@
-{"state":"failed","package":"CustomClusters","position":649,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-o3p232_l.zip'","updated_at":"2026-09-15T22:11:24.307239+00:00"}
+{"state":"processing","package":"CustomClusters-StockAdapterStandalone","position":650,"catalog_packages":3738,"updated_at":"2026-09-15T22:11:25.262436+00:00"}
