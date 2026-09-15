@@ -1,1 +1,1 @@
-{"state":"processing","package":"DumpAndBurn","position":785,"catalog_packages":3738,"updated_at":"2026-09-15T22:15:35.723818+00:00"}
+{"state":"failed","package":"DumpAndBurn","position":785,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-9vbnhlia.zip'","updated_at":"2026-09-15T22:15:36.579526+00:00"}
