@@ -1,1 +1,1 @@
-{"state":"processing","package":"HADD","position":1105,"catalog_packages":3738,"updated_at":"2026-09-15T22:32:02.548227+00:00"}
+{"state":"failed","package":"HADD","position":1105,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-96qi7ew4.zip'","updated_at":"2026-09-15T22:32:03.458400+00:00"}
