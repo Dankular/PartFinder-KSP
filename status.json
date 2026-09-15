@@ -1,1 +1,1 @@
-{"state":"processing","package":"HotContents","position":1169,"catalog_packages":3738,"updated_at":"2026-09-15T22:34:51.797643+00:00"}
+{"state":"failed","package":"HotContents","position":1169,"catalog_packages":3738,"error":"[Errno 28] No space left on device: '/tmp/partfinder-9yqwza84.zip'","updated_at":"2026-09-15T22:34:52.722174+00:00"}
